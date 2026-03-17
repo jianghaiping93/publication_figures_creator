@@ -1,0 +1,49 @@
+version: 1
+fonts:
+  primary: "Source Sans 3"
+  fallback: "Arial"
+  title_size_pt: 12
+  label_size_pt: 9
+lines:
+  width_pt: 1.0
+palette:
+  categorical:
+    - "#4C78A8"
+    - "#F58518"
+    - "#54A24B"
+    - "#E45756"
+    - "#72B7B2"
+    - "#B279A2"
+    - "#FF9DA6"
+    - "#9D755D"
+    - "#BAB0AC"
+  sequential:
+    - "#F7FBFF"
+    - "#DEEBF7"
+    - "#C6DBEF"
+    - "#9ECAE1"
+    - "#6BAED6"
+    - "#4292C6"
+    - "#2171B5"
+    - "#08519C"
+  diverging:
+    - "#3B4CC0"
+    - "#778CD8"
+    - "#B1C1F0"
+    - "#E6E6E6"
+    - "#F2B1A8"
+    - "#D86B5F"
+    - "#B40426"
+layout:
+  background: "white"
+  gridlines: "minimal"
+  legend: "outside"
+  panel_label:
+    position: "top-left"
+    style: "bold"
+output:
+  vector: ["pdf", "svg"]
+  raster: ["png"]
+  dpi: 300
+naming:
+  pattern: "{paper_id}_fig{figure}_panel{panel}.{ext}"
