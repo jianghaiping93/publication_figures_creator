@@ -41,15 +41,15 @@ def crossref_harvest(args: argparse.Namespace) -> int:
         filters = [
             f"from-pub-date:{args.from_date}",
             f"until-pub-date:{args.to_date}",
-            f"container-title:{args.journal}",
             "type:journal-article",
         ]
         params = {
             "filter": ",".join(filters),
             "rows": str(args.rows),
             "cursor": cursor,
-            "cursor-max": str(args.rows),
         }
+        if args.journal:
+            params["query.container-title"] = args.journal
         if args.mailto:
             params["mailto"] = args.mailto
 
