@@ -4,6 +4,7 @@
 
 ## 当前目标（Now）
 - 建立近 3 年 Nature/Science/Cell 论文清单与 DOI 索引。
+- 扩展到 CNS 全刊与 Nature 子刊的论文清单与 DOI 索引。
 - 形成 GitHub 发现与筛选规则（能找到 figure 作图代码）。
 - 定义图类型 taxonomy 与数据库字段。
 
@@ -31,6 +32,11 @@
 - 2026-03-17：完成 Crossref 三刊论文清单抓取并生成仓库发现样例表。
 - 2026-03-17：新增可复现性验证模板（Markdown+CSV）。
 - 2026-03-17：完成首批 18 篇论文的在线检索，更新 GitHub 链接与状态标注。
+- 2026-03-17：新增 Nature.com 期刊索引解析脚本与 Nature 子刊列表（含系列分类）。
+- 2026-03-17：从 Nature Portfolio 期刊指标页面提取 2024 JIF，生成 IF>10 子刊清单，并启动 Crossref 批量抓取。
+- 2026-03-17：完成 IF>10 Nature 子刊 Crossref 抓取 54/63，本轮缺失期刊：
+  Nature Sustainability；npj Clean Water；npj Computational Materials；
+  npj Digital Medicine；npj Flexible Electronics。
 
 ## 重复问题与解决方案（Recurring Issues & Fixes）
 - 待记录。
@@ -43,6 +49,7 @@
 - 基于样例表补充 GitHub 仓库链接（若 Crossref 未提供）。
 - 按样例表挑选可复现的 figure 代码并录入数据库。
 - 运行 OpenAlex 补充元数据（需要 API key）。
+- 使用 Nature 子刊列表与批量抓取脚本扩展 Crossref 数据。
 
 ## 更新规则
 - 每次新增数据源、变更流程、修复问题后，都在“进展记录”与“重复问题与解决方案”中更新。

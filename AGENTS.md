@@ -17,7 +17,8 @@
 
 ## Testing Guidelines
 - No test framework is configured.
-- If tests are introduced, document the framework, test location, naming pattern (example: `test_*.py`), and how to run them.
+- If tests are introduced, document the framework, test location, naming pattern (example: `test_*.py`),
+  and how to run them.
 
 ## Commit & Pull Request Guidelines
 - Git history is not available in this workspace, so no existing commit conventions can be verified.

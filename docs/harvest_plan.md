@@ -1,8 +1,11 @@
 # Paper Harvest Plan
 
 ## Scope
-- Target journals: Nature, Science, Cell.
+- Target journals: CNS (Cell, Nature, Science) plus all Nature-branded subjournals
+  (Nature *, Communications *, npj *, Scientific Reports/Data).
 - Time window: last 3 years rolling. As of 2026-03-17, use 2023-03-17 to 2026-03-17.
+- Nature subjournal filter: keep journals with Journal Impact Factor (JIF) > 10
+  based on the Nature Portfolio metrics page.
 
 ## Output Format
 - JSONL files, one record per line.
@@ -19,6 +22,17 @@
     --to-date 2026-03-17 \
     --mailto 914295425@qq.com \
     --output data/metadata/crossref_nature_2023_2026.jsonl
+  ```
+- For Nature subjournals, build the journal list from Nature.com site index and
+  run batch harvest:
+  ```bash
+  python scripts/extract_nature_siteindex.py
+  python scripts/parse_nature_portfolio_metrics.py
+  python scripts/harvest_journals_batch.py \
+    --journals-csv data/metadata/nature_portfolio_journals_if_gt10.csv \
+    --from-date 2023-03-17 \
+    --to-date 2026-03-17 \
+    --mailto 914295425@qq.com
   ```
 
 ## OpenAlex (Secondary)

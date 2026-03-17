@@ -1,0 +1,64 @@
+journal_title,journal_path,journal_url,series,impact_factor
+Nature,https://www.nature.com/nature/,https://www.nature.comhttps://www.nature.com/nature/,nature_main,48.5
+Nature,/nature/,https://www.nature.com/nature/,nature_main,48.5
+Nature Astronomy,/natastron/,https://www.nature.com/natastron/,nature_research,14.3
+Nature Biomedical Engineering,/natbiomedeng/,https://www.nature.com/natbiomedeng/,nature_research,26.6
+Nature Biotechnology,/nbt/,https://www.nature.com/nbt/,nature_research,41.7
+Nature Cancer,/natcancer/,https://www.nature.com/natcancer/,nature_research,28.5
+Nature Catalysis,/natcatal/,https://www.nature.com/natcatal/,nature_research,44.6
+Nature Cell Biology,/ncb/,https://www.nature.com/ncb/,nature_research,19.1
+Nature Chemical Biology,/nchembio/,https://www.nature.com/nchembio/,nature_research,13.7
+Nature Chemistry,/nchem/,https://www.nature.com/nchem/,nature_research,20.2
+Nature Chemistry,https://www.nature.com/nchem/,https://www.nature.comhttps://www.nature.com/nchem/,nature_research,20.2
+Nature Climate Change,/nclimate/,https://www.nature.com/nclimate/,nature_research,27.1
+Nature Communications,/ncomms/,https://www.nature.com/ncomms/,nature_research,15.7
+Nature Communications,https://www.nature.com/ncomms/,https://www.nature.comhttps://www.nature.com/ncomms/,nature_research,15.7
+Nature Computational Science,/natcomputsci/,https://www.nature.com/natcomputsci/,nature_research,18.3
+Nature Ecology & Evolution,/natecolevol/,https://www.nature.com/natecolevol/,nature_research,14.5
+Nature Electronics,/natelectron/,https://www.nature.com/natelectron/,nature_research,40.9
+Nature Energy,/nenergy/,https://www.nature.com/nenergy/,nature_research,60.1
+Nature Food,/natfood/,https://www.nature.com/natfood/,nature_research,21.9
+Nature Genetics,/ng/,https://www.nature.com/ng/,nature_research,29.0
+Nature Geoscience,/ngeo/,https://www.nature.com/ngeo/,nature_research,16.1
+Nature Human Behaviour,/nathumbehav/,https://www.nature.com/nathumbehav/,nature_research,15.9
+Nature Immunology,/ni/,https://www.nature.com/ni/,nature_research,27.6
+Nature Machine Intelligence,/natmachintell/,https://www.nature.com/natmachintell/,nature_research,23.9
+Nature Materials,/nmat/,https://www.nature.com/nmat/,nature_research,38.5
+Nature Materials,https://www.nature.com/nmat/,https://www.nature.comhttps://www.nature.com/nmat/,nature_research,38.5
+Nature Medicine,/nm/,https://www.nature.com/nm/,nature_research,50.0
+Nature Metabolism,/natmetab/,https://www.nature.com/natmetab/,nature_research,20.8
+Nature Methods,/nmeth/,https://www.nature.com/nmeth/,nature_research,32.1
+Nature Microbiology,/nmicrobiol/,https://www.nature.com/nmicrobiol/,nature_research,19.4
+Nature Nanotechnology,/nnano/,https://www.nature.com/nnano/,nature_research,34.9
+Nature Neuroscience,/neuro/,https://www.nature.com/neuro/,nature_research,20.0
+Nature Photonics,/nphoton/,https://www.nature.com/nphoton/,nature_research,32.9
+Nature Physics,/nphys/,https://www.nature.com/nphys/,nature_research,18.4
+Nature Plants,/nplants/,https://www.nature.com/nplants/,nature_research,13.6
+Nature Protocols,/nprot/,https://www.nature.com/nprot/,nature_protocols,16.0
+Nature Reviews Cancer,/nrc/,https://www.nature.com/nrc/,nature_reviews,66.8
+Nature Reviews Cardiology,/nrcardio/,https://www.nature.com/nrcardio/,nature_reviews,44.2
+Nature Reviews Chemistry,/natrevchem/,https://www.nature.com/natrevchem/,nature_reviews,51.7
+Nature Reviews Clinical Oncology,/nrclinonc/,https://www.nature.com/nrclinonc/,nature_reviews,82.2
+Nature Reviews Disease Primers,/nrdp/,https://www.nature.com/nrdp/,nature_reviews,60.6
+Nature Reviews Drug Discovery,/nrd/,https://www.nature.com/nrd/,nature_reviews,101.8
+Nature Reviews Earth & Environment,/natrevearthenviron/,https://www.nature.com/natrevearthenviron/,nature_reviews,71.5
+Nature Reviews Endocrinology,/nrendo/,https://www.nature.com/nrendo/,nature_reviews,40.0
+Nature Reviews Gastroenterology & Hepatology,/nrgastro/,https://www.nature.com/nrgastro/,nature_reviews,51.0
+Nature Reviews Genetics,/nrg/,https://www.nature.com/nrg/,nature_reviews,52.0
+Nature Reviews Immunology,/nri/,https://www.nature.com/nri/,nature_reviews,60.9
+Nature Reviews Materials,/natrevmats/,https://www.nature.com/natrevmats/,nature_reviews,86.2
+Nature Reviews Methods Primers,/nrmp/,https://www.nature.com/nrmp/,nature_reviews,56.0
+Nature Reviews Microbiology,/nrmicro/,https://www.nature.com/nrmicro/,nature_reviews,103.3
+Nature Reviews Molecular Cell Biology,/nrm/,https://www.nature.com/nrm/,nature_reviews,90.2
+Nature Reviews Nephrology,/nrneph/,https://www.nature.com/nrneph/,nature_reviews,39.8
+Nature Reviews Neurology,/nrneurol/,https://www.nature.com/nrneurol/,nature_reviews,33.1
+Nature Reviews Neuroscience,/nrn/,https://www.nature.com/nrn/,nature_reviews,26.7
+Nature Reviews Physics,/natrevphys/,https://www.nature.com/natrevphys/,nature_reviews,39.5
+Nature Reviews Psychology,/nrpsychol/,https://www.nature.com/nrpsychol/,nature_reviews,21.8
+Nature Reviews Rheumatology,/nrrheum/,https://www.nature.com/nrrheum/,nature_reviews,32.7
+Nature Reviews Urology,/nrurol/,https://www.nature.com/nrurol/,nature_reviews,14.6
+Nature Sustainability,/natsustain/,https://www.nature.com/natsustain/,nature_research,27.1
+npj Clean Water,/npjcleanwater/,https://www.nature.com/npjcleanwater/,npj,11.4
+npj Computational Materials,/npjcompumats/,https://www.nature.com/npjcompumats/,npj,11.9
+npj Digital Medicine,/npjdigitalmed/,https://www.nature.com/npjdigitalmed/,npj,15.1
+npj Flexible Electronics,/npjflexelectron/,https://www.nature.com/npjflexelectron/,npj,15.5

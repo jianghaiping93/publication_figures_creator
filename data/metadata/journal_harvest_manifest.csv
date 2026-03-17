@@ -1,0 +1,145 @@
+journal_title,output_file,from_date,to_date,count
+Nature,data/metadata/journals/crossref_nature_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Astronomy,data/metadata/journals/crossref_nature_astronomy_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Biomedical Engineering,data/metadata/journals/crossref_nature_biomedical_engineering_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Biotechnology,data/metadata/journals/crossref_nature_biotechnology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Cancer,data/metadata/journals/crossref_nature_cancer_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Catalysis,data/metadata/journals/crossref_nature_catalysis_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Cell Biology,data/metadata/journals/crossref_nature_cell_biology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Chemical Biology,data/metadata/journals/crossref_nature_chemical_biology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Chemistry,data/metadata/journals/crossref_nature_chemistry_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Climate Change,data/metadata/journals/crossref_nature_climate_change_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Communications,data/metadata/journals/crossref_nature_communications_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Computational Science,data/metadata/journals/crossref_nature_computational_science_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Ecology & Evolution,data/metadata/journals/crossref_nature_ecology_evolution_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Electronics,data/metadata/journals/crossref_nature_electronics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Energy,data/metadata/journals/crossref_nature_energy_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Food,data/metadata/journals/crossref_nature_food_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Genetics,data/metadata/journals/crossref_nature_genetics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Geoscience,data/metadata/journals/crossref_nature_geoscience_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Human Behaviour,data/metadata/journals/crossref_nature_human_behaviour_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Immunology,data/metadata/journals/crossref_nature_immunology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Machine Intelligence,data/metadata/journals/crossref_nature_machine_intelligence_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Materials,data/metadata/journals/crossref_nature_materials_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Medicine,data/metadata/journals/crossref_nature_medicine_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Metabolism,data/metadata/journals/crossref_nature_metabolism_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Methods,data/metadata/journals/crossref_nature_methods_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Microbiology,data/metadata/journals/crossref_nature_microbiology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Nanotechnology,data/metadata/journals/crossref_nature_nanotechnology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Neuroscience,data/metadata/journals/crossref_nature_neuroscience_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Photonics,data/metadata/journals/crossref_nature_photonics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Physics,data/metadata/journals/crossref_nature_physics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Plants,data/metadata/journals/crossref_nature_plants_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Protocols,data/metadata/journals/crossref_nature_protocols_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Cancer,data/metadata/journals/crossref_nature_reviews_cancer_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Cardiology,data/metadata/journals/crossref_nature_reviews_cardiology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Chemistry,data/metadata/journals/crossref_nature_reviews_chemistry_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Clinical Oncology,data/metadata/journals/crossref_nature_reviews_clinical_oncology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Disease Primers,data/metadata/journals/crossref_nature_reviews_disease_primers_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Drug Discovery,data/metadata/journals/crossref_nature_reviews_drug_discovery_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Earth & Environment,data/metadata/journals/crossref_nature_reviews_earth_environment_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Endocrinology,data/metadata/journals/crossref_nature_reviews_endocrinology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Gastroenterology & Hepatology,data/metadata/journals/crossref_nature_reviews_gastroenterology_hepatology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Genetics,data/metadata/journals/crossref_nature_reviews_genetics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000
+Nature Reviews Immunology,data/metadata/journals/crossref_nature_reviews_immunology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,4000
+Nature Reviews Materials,data/metadata/journals/crossref_nature_reviews_materials_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,4000
+Nature Reviews Methods Primers,data/metadata/journals/crossref_nature_reviews_methods_primers_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,4000
+Nature Reviews Microbiology,data/metadata/journals/crossref_nature_reviews_microbiology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,3000
+timestamp,journal_title,output_file,from_date,to_date,count,status,notes
+2026-03-17T08:07:47.425407Z,Nature,data/metadata/journals/crossref_nature_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:07:47.425515Z,Nature,data/metadata/journals/crossref_nature_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:08:00.421362Z,Nature Astronomy,data/metadata/journals/crossref_nature_astronomy_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:08:14.222805Z,Nature Biomedical Engineering,data/metadata/journals/crossref_nature_biomedical_engineering_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:08:29.276137Z,Nature Biotechnology,data/metadata/journals/crossref_nature_biotechnology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:08:44.011682Z,Nature Cancer,data/metadata/journals/crossref_nature_cancer_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:08:59.668342Z,Nature Catalysis,data/metadata/journals/crossref_nature_catalysis_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:09:14.867879Z,Nature Cell Biology,data/metadata/journals/crossref_nature_cell_biology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:09:29.087754Z,Nature Chemical Biology,data/metadata/journals/crossref_nature_chemical_biology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:09:42.716820Z,Nature Chemistry,data/metadata/journals/crossref_nature_chemistry_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:09:42.716910Z,Nature Chemistry,data/metadata/journals/crossref_nature_chemistry_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:09:54.182703Z,Nature Climate Change,data/metadata/journals/crossref_nature_climate_change_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:10:11.675314Z,Nature Communications,data/metadata/journals/crossref_nature_communications_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:10:11.675407Z,Nature Communications,data/metadata/journals/crossref_nature_communications_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:10:26.453821Z,Nature Computational Science,data/metadata/journals/crossref_nature_computational_science_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:10:40.787205Z,Nature Ecology & Evolution,data/metadata/journals/crossref_nature_ecology_evolution_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:10:54.629080Z,Nature Electronics,data/metadata/journals/crossref_nature_electronics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:11:06.064612Z,Nature Energy,data/metadata/journals/crossref_nature_energy_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:11:17.851788Z,Nature Food,data/metadata/journals/crossref_nature_food_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:11:37.471683Z,Nature Genetics,data/metadata/journals/crossref_nature_genetics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:11:53.167291Z,Nature Geoscience,data/metadata/journals/crossref_nature_geoscience_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:12:08.581119Z,Nature Human Behaviour,data/metadata/journals/crossref_nature_human_behaviour_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:12:22.013535Z,Nature Immunology,data/metadata/journals/crossref_nature_immunology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:12:33.543418Z,Nature Machine Intelligence,data/metadata/journals/crossref_nature_machine_intelligence_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:12:45.873395Z,Nature Materials,data/metadata/journals/crossref_nature_materials_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:12:45.873489Z,Nature Materials,data/metadata/journals/crossref_nature_materials_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:12:59.522398Z,Nature Medicine,data/metadata/journals/crossref_nature_medicine_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:13:16.104362Z,Nature Metabolism,data/metadata/journals/crossref_nature_metabolism_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:13:29.492762Z,Nature Methods,data/metadata/journals/crossref_nature_methods_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:13:44.653017Z,Nature Microbiology,data/metadata/journals/crossref_nature_microbiology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:13:59.631939Z,Nature Nanotechnology,data/metadata/journals/crossref_nature_nanotechnology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:14:18.146209Z,Nature Neuroscience,data/metadata/journals/crossref_nature_neuroscience_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:14:33.082265Z,Nature Photonics,data/metadata/journals/crossref_nature_photonics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:14:46.305514Z,Nature Physics,data/metadata/journals/crossref_nature_physics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:15:01.154485Z,Nature Plants,data/metadata/journals/crossref_nature_plants_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:15:13.336936Z,Nature Protocols,data/metadata/journals/crossref_nature_protocols_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:15:30.102385Z,Nature Reviews Cancer,data/metadata/journals/crossref_nature_reviews_cancer_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:15:47.384503Z,Nature Reviews Cardiology,data/metadata/journals/crossref_nature_reviews_cardiology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:16:05.387313Z,Nature Reviews Chemistry,data/metadata/journals/crossref_nature_reviews_chemistry_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:16:21.736985Z,Nature Reviews Clinical Oncology,data/metadata/journals/crossref_nature_reviews_clinical_oncology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:16:41.742260Z,Nature Reviews Disease Primers,data/metadata/journals/crossref_nature_reviews_disease_primers_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:16:57.422469Z,Nature Reviews Drug Discovery,data/metadata/journals/crossref_nature_reviews_drug_discovery_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:17:17.807020Z,Nature Reviews Earth & Environment,data/metadata/journals/crossref_nature_reviews_earth_environment_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:17:35.216868Z,Nature Reviews Endocrinology,data/metadata/journals/crossref_nature_reviews_endocrinology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:17:48.219799Z,Nature Reviews Gastroenterology & Hepatology,data/metadata/journals/crossref_nature_reviews_gastroenterology_hepatology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:18:05.977716Z,Nature Reviews Genetics,data/metadata/journals/crossref_nature_reviews_genetics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:18:22.280025Z,Nature Reviews Immunology,data/metadata/journals/crossref_nature_reviews_immunology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:18:41.637792Z,Nature Reviews Materials,data/metadata/journals/crossref_nature_reviews_materials_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:18:59.709390Z,Nature Reviews Methods Primers,data/metadata/journals/crossref_nature_reviews_methods_primers_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:19:17.596333Z,Nature Reviews Microbiology,data/metadata/journals/crossref_nature_reviews_microbiology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:19:35.409508Z,Nature Reviews Molecular Cell Biology,data/metadata/journals/crossref_nature_reviews_molecular_cell_biology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:19:53.128301Z,Nature Reviews Nephrology,data/metadata/journals/crossref_nature_reviews_nephrology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:20:16.011250Z,Nature Reviews Neurology,data/metadata/journals/crossref_nature_reviews_neurology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:20:33.839343Z,Nature Reviews Neuroscience,data/metadata/journals/crossref_nature_reviews_neuroscience_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:20:51.062435Z,Nature Reviews Physics,data/metadata/journals/crossref_nature_reviews_physics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:21:10.563554Z,Nature Reviews Psychology,data/metadata/journals/crossref_nature_reviews_psychology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:21:27.798772Z,Nature Reviews Rheumatology,data/metadata/journals/crossref_nature_reviews_rheumatology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:21:47.184691Z,Nature Reviews Urology,data/metadata/journals/crossref_nature_reviews_urology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:02.511527Z,Nature Sustainability,data/metadata/journals/crossref_nature_sustainability_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:20.475638Z,npj Clean Water,data/metadata/journals/crossref_npj_clean_water_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:39.386740Z,npj Computational Materials,data/metadata/journals/crossref_npj_computational_materials_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:55.768279Z,npj Digital Medicine,data/metadata/journals/crossref_npj_digital_medicine_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:23:11.558957Z,npj Flexible Electronics,data/metadata/journals/crossref_npj_flexible_electronics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:21:10.029176Z,Nature Reviews Nephrology,data/metadata/journals/crossref_nature_reviews_nephrology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:21:10.029207Z,Nature Reviews Neurology,data/metadata/journals/crossref_nature_reviews_neurology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:21:10.029217Z,Nature Reviews Neuroscience,data/metadata/journals/crossref_nature_reviews_neuroscience_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:21:10.029227Z,Nature Reviews Physics,data/metadata/journals/crossref_nature_reviews_physics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:21:10.029236Z,Nature Reviews Psychology,data/metadata/journals/crossref_nature_reviews_psychology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:21:28.700180Z,Nature Reviews Rheumatology,data/metadata/journals/crossref_nature_reviews_rheumatology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:21:46.041325Z,Nature Reviews Urology,data/metadata/journals/crossref_nature_reviews_urology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:06.111737Z,Nature Sustainability,data/metadata/journals/crossref_nature_sustainability_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:22.458178Z,npj Clean Water,data/metadata/journals/crossref_npj_clean_water_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:42.393434Z,npj Computational Materials,data/metadata/journals/crossref_npj_computational_materials_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:59.500550Z,npj Digital Medicine,data/metadata/journals/crossref_npj_digital_medicine_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:23:15.549575Z,npj Flexible Electronics,data/metadata/journals/crossref_npj_flexible_electronics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:18:08.558483Z,Nature Reviews Drug Discovery,data/metadata/journals/crossref_nature_reviews_drug_discovery_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:18:08.558997Z,Nature Reviews Earth & Environment,data/metadata/journals/crossref_nature_reviews_earth_environment_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:18:08.559010Z,Nature Reviews Endocrinology,data/metadata/journals/crossref_nature_reviews_endocrinology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:18:08.559021Z,Nature Reviews Gastroenterology & Hepatology,data/metadata/journals/crossref_nature_reviews_gastroenterology_hepatology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:18:08.559038Z,Nature Reviews Genetics,data/metadata/journals/crossref_nature_reviews_genetics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,0,skipped_exists,output already exists
+2026-03-17T08:18:24.891348Z,Nature Reviews Immunology,data/metadata/journals/crossref_nature_reviews_immunology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:18:46.716104Z,Nature Reviews Materials,data/metadata/journals/crossref_nature_reviews_materials_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:19:03.290827Z,Nature Reviews Methods Primers,data/metadata/journals/crossref_nature_reviews_methods_primers_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:19:20.910727Z,Nature Reviews Microbiology,data/metadata/journals/crossref_nature_reviews_microbiology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:19:37.778257Z,Nature Reviews Molecular Cell Biology,data/metadata/journals/crossref_nature_reviews_molecular_cell_biology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:19:57.212868Z,Nature Reviews Nephrology,data/metadata/journals/crossref_nature_reviews_nephrology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:20:14.736195Z,Nature Reviews Neurology,data/metadata/journals/crossref_nature_reviews_neurology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:20:34.426276Z,Nature Reviews Neuroscience,data/metadata/journals/crossref_nature_reviews_neuroscience_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:20:53.943755Z,Nature Reviews Physics,data/metadata/journals/crossref_nature_reviews_physics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:21:10.978895Z,Nature Reviews Psychology,data/metadata/journals/crossref_nature_reviews_psychology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:21:29.947275Z,Nature Reviews Rheumatology,data/metadata/journals/crossref_nature_reviews_rheumatology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:21:47.446203Z,Nature Reviews Urology,data/metadata/journals/crossref_nature_reviews_urology_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:03.243777Z,Nature Sustainability,data/metadata/journals/crossref_nature_sustainability_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:20.915044Z,npj Clean Water,data/metadata/journals/crossref_npj_clean_water_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:39.646255Z,npj Computational Materials,data/metadata/journals/crossref_npj_computational_materials_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:22:58.095910Z,npj Digital Medicine,data/metadata/journals/crossref_npj_digital_medicine_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
+2026-03-17T08:23:21.856957Z,npj Flexible Electronics,data/metadata/journals/crossref_npj_flexible_electronics_2023-03-17_2026-03-17.jsonl,2023-03-17,2026-03-17,2000,ok,
