@@ -1,0 +1,16 @@
+https://github.com/FlynnLab/jonperr
+https://github.com/NBISweden/AGAT
+https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273
+https://github.com/MouseLand/zhong-et-al-2025
+https://github.com/NeLy-EPFL/dn_networks
+https://github.com/NREL/turbine-models
+https://github.com/NVIDIA/DALI
+https://github.com/NeLy-EPFL/twoppp
+https://github.com/Nik-Zainal-Group/signature.tools.lib
+https://github.com/Nealelab/UK_Biobank_GWAS
+https://github.com/PLAVRVSO/scRNA-Seq-analysis-of-BAT-SVF
+https://github.com/PierreElias/IntroECG
+https://github.com/PacificBiosciences/ccs
+https://github.com/RadulovicLab/Nature-2024
+https://github.com/features/copilot
+https://github.com/ukhsa-collaboration/drivers_epidemic_dynamics_from_nhs_covid19_app.10.5281
