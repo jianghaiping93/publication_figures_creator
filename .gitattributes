@@ -1,3 +1,4 @@
 data/metadata/journals/*.jsonl filter=lfs diff=lfs merge=lfs -text
+data/metadata/incremental/**/*.jsonl filter=lfs diff=lfs merge=lfs -text
 data/metadata/incremental/*.jsonl filter=lfs diff=lfs merge=lfs -text
 data/metadata/incremental/*/*.jsonl filter=lfs diff=lfs merge=lfs -text
