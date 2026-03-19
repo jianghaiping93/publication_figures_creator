@@ -181,7 +181,7 @@ f59258b43c6c544b,https://github.com/funkelab/gunpowder,funkelab__gunpowder,data/
 e1e959f077b6f1de,https://github.com/gardner-lab/video-capture,gardner-lab__video-capture,data/github_repos/gardner-lab__video-capture,ok,no_figure_files_detected,2026-03-17T12:49:53.531981Z,846d558ca4a57fb3
 befe99e3f4074e39,https://github.com/gardner-lab/FinchScope,gardner-lab__FinchScope,data/github_repos/gardner-lab__FinchScope,ok,,2026-03-17T12:49:53.962386Z,846d558ca4a57fb3
 6095c8cbf5b37948,https://github.com/geoffvasil/nssl_mri,geoffvasil__nssl_mri,data/github_repos/geoffvasil__nssl_mri,ok,,2026-03-17T12:49:54.175513Z,995f8c5d2c90fbd9
-ebbd7a5014758b6c,https://github.com/google-deepmind/alphafold,google-deepmind__alphafold,data/github_repos/google-deepmind__alphafold,ok,,2026-03-17T12:49:54.378883Z,328b2970f46fc07c
+ebbd7a5014758b6c,https://github.com/google-deepmind/alphafold,google-deepmind__alphafold,data/github_repos/google-deepmind__alphafold,ok,,2026-03-19T06:17:56.363497Z,328b2970f46fc07c
 4e81dfe2ecacb189,https://github.com/gillislab/barseq_analysis,gillislab__barseq_analysis,data/github_repos/gillislab__barseq_analysis,ok,,2026-03-17T12:49:54.468361Z,289c9bab576bdbc3
 f8f960fe54b584ed,https://github.com/facebookresearch/detectron2,facebookresearch__detectron2,data/github_repos/facebookresearch__detectron2,ok,,2026-03-17T12:49:55.901695Z,a85b5d6f32dcc5d0
 701ea268841e3b90,https://github.com/google/ffn,google__ffn,data/github_repos/google__ffn,ok,no_figure_files_detected,2026-03-17T12:50:27.254494Z,aaf6bf5486033ca5
@@ -204,7 +204,7 @@ e3b9b54c3d093c9b,https://github.com/int-brain-lab/iblvideo,int-brain-lab__iblvid
 fbb7c8e9d58fb6ad,https://github.com/inagaki-lab/Yang_et_al_2024,inagaki-lab__Yang_et_al_2024,data/github_repos/inagaki-lab__Yang_et_al_2024,ok,,2026-03-17T12:50:29.802609Z,25b7e86a514e66f5
 501f8191e6c99109,https://github.com/ivanjayapurna/RHPapp,ivanjayapurna__RHPapp,data/github_repos/ivanjayapurna__RHPapp,ok,no_figure_files_detected,2026-03-17T12:50:29.827996Z,a4333a3a27595f4e
 886e8a1d3699899e,https://github.com/jakesaba/2025_ZAK,jakesaba__2025_ZAK,data/github_repos/jakesaba__2025_ZAK,ok,no_figure_files_detected,2026-03-17T12:50:30.003012Z,6f168345d7576cb3
-ed9ced71c1a00979,https://github.com/jamiemcg/BUSCO_phylogenomics,jamiemcg__BUSCO_phylogenomics,data/github_repos/jamiemcg__BUSCO_phylogenomics,ok,no_figure_files_detected,2026-03-17T12:50:30.065126Z,1d03a7e9fa4621c5
+ed9ced71c1a00979,https://github.com/jamiemcg/BUSCO_phylogenomics,jamiemcg__BUSCO_phylogenomics,data/github_repos/jamiemcg__BUSCO_phylogenomics,ok,no_figure_files_detected,2026-03-19T06:17:56.471742Z,1d03a7e9fa4621c5
 7312d246b2869a63,https://github.com/heberlr/UQ_PhysiCell,heberlr__UQ_PhysiCell,data/github_repos/heberlr__UQ_PhysiCell,ok,,2026-03-17T12:50:30.139042Z,b50e59bf2b8873f5
 cdd4f877e5b513c4,https://github.com/hartwigmedical/hmftools,hartwigmedical__hmftools,data/github_repos/hartwigmedical__hmftools,ok,,2026-03-17T12:50:30.198456Z,4d760bd70b223abf
 aff96c4f307ec286,https://github.com/janelia-pypi/mouse_joystick_interface_python,janelia-pypi__mouse_joystick_interface_python,data/github_repos/janelia-pypi__mouse_joystick_interface_python,ok,no_figure_files_detected,2026-03-17T12:50:30.220327Z,0650bf7d059180e0
@@ -264,7 +264,7 @@ b2dd3d22228968e4,https://github.com/mskilab-org/gGnome,mskilab-org__gGnome,data/
 e0d39617c72beb0e,https://github.com/mskilab-org/JaBbA,mskilab-org__JaBbA,data/github_repos/mskilab-org__JaBbA,ok,,2026-03-17T12:50:38.435551Z,ed884feb48bf53de
 4e26e06ba7ede413,https://github.com/nanjiangshu/my_needle,nanjiangshu__my_needle,data/github_repos/nanjiangshu__my_needle,ok,no_figure_files_detected,2026-03-17T12:50:38.575170Z,76c69beb037b3dfb
 4e51ccdbc78a4493,https://github.com/mskilab-org/jabba,mskilab-org__jabba,data/github_repos/mskilab-org__jabba,ok,,2026-03-17T12:50:38.600337Z,ed884feb48bf53de
-b20e3e8a8e7febba,https://github.com/nanoporetech/medaka,nanoporetech__medaka,data/github_repos/nanoporetech__medaka,ok,no_figure_files_detected,2026-03-17T12:50:38.792523Z,08e804edd380801a; d45ffef37120a5fe
+b20e3e8a8e7febba,https://github.com/nanoporetech/medaka,nanoporetech__medaka,data/github_repos/nanoporetech__medaka,ok,no_figure_files_detected,2026-03-19T06:17:56.585376Z,08e804edd380801a; d45ffef37120a5fe
 b26ce5824b3b9d49,https://github.com/mskilab/setton_hadi_choo_2023,mskilab__setton_hadi_choo_2023,data/github_repos/mskilab__setton_hadi_choo_2023,ok,,2026-03-17T12:50:38.900485Z,ed884feb48bf53de
 abd1f1389c5fdac7,https://github.com/msmielak/moonlit,msmielak__moonlit,data/github_repos/msmielak__moonlit,ok,,2026-03-17T12:50:39.061834Z,29709be3196ae9fb
 1db83178394e314d,https://github.com/nanopore-wgs-consortium/NA12878,nanopore-wgs-consortium__NA12878,data/github_repos/nanopore-wgs-consortium__NA12878,ok,,2026-03-17T12:50:39.212362Z,2daa0c170511ea95
@@ -366,3 +366,5 @@ c12e60544e47bc72,https://github.com/zhang21mit/CRESt,zhang21mit__CRESt,data/gith
 b3f5e88f74eabf9f,https://github.com/yigali/near-field-ent-tam,yigali__near-field-ent-tam,data/github_repos/yigali__near-field-ent-tam,ok,,2026-03-17T12:51:09.547699Z,78993661f3a98a30
 b6cd1539c545ad09,https://github.com/villani-lab/myocarditis,villani-lab__myocarditis,data/github_repos/villani-lab__myocarditis,ok,,2026-03-17T12:51:11.982878Z,c31bbdba0ae6554c
 10a79ea94842c429,https://github.com/zhoujt1994/scHiCluster,zhoujt1994__scHiCluster,data/github_repos/zhoujt1994__scHiCluster,ok,,2026-03-17T12:51:12.055467Z,b34f521c2d2e1671
+c205768d9225c20c,https://github.com/annayqho/AT2022tsd,annayqho__AT2022tsd,data/github_repos/annayqho__AT2022tsd,ok,,2026-03-19T06:24:07.969629Z,
+a5f78d6e01e0e697,https://github.com/HWaymentSteele/AF_Cluster,HWaymentSteele__AF_Cluster,data/github_repos/HWaymentSteele__AF_Cluster,ok,tar_list_only,2026-03-19T07:00:04.202350Z,

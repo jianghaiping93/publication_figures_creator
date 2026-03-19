@@ -1,0 +1,4 @@
+paper_id,repo_url,script_path,run_command,candidate_command,source,log_path
+10.1038/s41586-023-05906-y,https://github.com/bintulab/HT-recruit-Analyze,Scripts/plotDist.py,python3 Scripts/plotDist.py,python3 Scripts/plotDist.py <name> <count_files>,log_required_args,logs/repro_runs/run_00937_20260318_114627.log
+10.1038/s41586-025-08878-3,https://github.com/fanzheng10/HiSig,HiSig/examples/simulation/plot_auc.R,python3 prepare_input.py,python3 prepare_input.py --ont <value> --sig <value> --out <value>,log_required_args,logs/repro_runs/run_01165_20260318_083148.log
+10.1038/s41586-025-08878-3,https://github.com/fanzheng10/HiSig,HiSig/examples/simulation/plot_profile.R,python3 prepare_input.py,python3 prepare_input.py --ont <value> --sig <value> --out <value>,log_required_args,logs/repro_runs/run_01166_20260318_083148.log

@@ -1,0 +1,4 @@
+index,repo_url,script_path,missing_path,fix_action,new_command,log_path
+901,https://github.com/YichaoOU/ABE_NonCoding_functional_score,HbF_patients_classification/scatter_plot.py,snp_data.tsv,cwd_rewrite,cd HbF_patients_classification && python3 scatter_plot.py,logs/repro_runs/run_00901_20260318_114617.log
+903,https://github.com/YichaoOU/ABE_NonCoding_functional_score,per_A_base_score/Epigenetic_features_enrichment/plot.py,pos.bed._yli11_2020-01-06_84353d2d3842.averageBW.csv,cwd_rewrite,cd per_A_base_score/Epigenetic_features_enrichment && python3 plot.py,logs/repro_runs/run_00903_20260318_114617.log
+1915,https://github.com/pablotano8/multi_timescale_RL,ext_fig_2.py,figures/my_figure.svg,created_output_dir,python3 ext_fig_2.py,logs/repro_runs/run_01915_20260318_114655.log

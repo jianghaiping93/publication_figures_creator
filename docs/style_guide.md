@@ -16,6 +16,19 @@ Provide a unified visual style for all generated figures to ensure consistency a
 - Diverging palette: symmetric around zero.
 - Avoid pure red/green pairs unless supplemented with shape or annotation.
 
+## Themes
+Available themes (set via `PFC_STYLE_THEME`):
+- `classic` (default)
+- `mono_ink`
+- `ocean`
+- `forest`
+- `solar`
+
+Example:
+```
+PFC_STYLE_THEME=ocean python scripts/run_with_style.py path/to/script.py
+```
+
 ## Layout Rules
 - Multi-panel figures use consistent margins and aligned axes.
 - Panel labels: uppercase letters, top-left corner, bold.

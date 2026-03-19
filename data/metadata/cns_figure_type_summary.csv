@@ -1,24 +1,25 @@
 figure_type_l1,count
-Multi-Panel Composite,1561
-Plotting Script (Generic),842
-Image Panel,361
+Multi-Panel Composite,1398
+Image Panel,732
+Plotting Script (Generic),664
 Network/Graph,298
 Heatmap,230
 Other/Uncategorized,158
 Genome Tracks,108
 ROC/PR Curve,101
 3D/Structure,100
-Pathway/Diagram,63
+Pathway/Diagram,64
 Line Chart,49
-Box/Violin Plot,39
+Box/Violin Plot,44
 Area/Stacked Chart,39
 Table,34
-Spatial/Map,31
+Spatial/Map,33
+Dimensionality Reduction,24
 Histogram/Density,24
-Dimensionality Reduction,22
 Raster/Spike,21
 Scatter Plot,21
 Tree/Phylogeny,20
 Pie/Donut,19
 Bar Chart,17
+Radar/Polar,11
 Flow Cytometry,1

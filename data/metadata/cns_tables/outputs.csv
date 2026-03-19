@@ -20,8 +20,8 @@ aabcdb0a6415c55d,aabcdb0a6415c55d,3202b4d584d02cf0,results/Figure S5.pdf,pdf,Mul
 7821ac74c06545f1,7821ac74c06545f1,50f72114b425b317,example/analysis_2024_04_25b_externalinput/plotbasisset.svg,svg,Plotting Script (Generic),Plot Script,plot,9ed764dc0d689bc6
 f12e43247b724d3a,f12e43247b724d3a,19a9db4146ba5bbf,analysis/blobmetrics/doc/Framework_figure.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,1a2aa18170c626a6
 70c162de83cfb203,70c162de83cfb203,8727de6c59f262c7,docs/reference/Rplot001.png,png,Plotting Script (Generic),Plot Script,plot,648019e473dee248
-db66d2056734079f,db66d2056734079f,57c0cad0f9be43ed,techdoc/html/images/02_left_panel_selector.jpg,jpg,Image Panel,,image,f88000ebbf83da18
-2ce96508dca2ed70,2ce96508dca2ed70,57c0cad0f9be43ed,techdoc/html/images/02_right_panel_selector.jpg,jpg,Image Panel,,image,f88000ebbf83da18
+db66d2056734079f,db66d2056734079f,57c0cad0f9be43ed,techdoc/html/images/02_left_panel_selector.jpg,jpg,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),image,f88000ebbf83da18
+2ce96508dca2ed70,2ce96508dca2ed70,57c0cad0f9be43ed,techdoc/html/images/02_right_panel_selector.jpg,jpg,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),image,f88000ebbf83da18
 990a4ce589315d67,990a4ce589315d67,57c0cad0f9be43ed,techdoc/html/images/03_panel_image_view.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 9e22c9183f78d16b,9e22c9183f78d16b,57c0cad0f9be43ed,techdoc/html/images/04_panel_path.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 1695677fe3f09f50,1695677fe3f09f50,57c0cad0f9be43ed,techdoc/html/images/06_panel_dir.jpg,jpg,Image Panel,,image,f88000ebbf83da18
@@ -29,8 +29,8 @@ db66d2056734079f,db66d2056734079f,57c0cad0f9be43ed,techdoc/html/images/02_left_p
 2ef134d82b33f7a8,2ef134d82b33f7a8,57c0cad0f9be43ed,techdoc/html/images/07_panel_segm_materials.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 e22a4d906f5009d2,e22a4d906f5009d2,57c0cad0f9be43ed,techdoc/html/images/07_panel_segm_tools.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 922cc53229ca69f6,922cc53229ca69f6,57c0cad0f9be43ed,techdoc/html/images/07_panel_segm_tools_3dball.jpg,jpg,3D/Structure,,3d,f88000ebbf83da18
-9e4b4122a8e0070a,9e4b4122a8e0070a,57c0cad0f9be43ed,techdoc/html/images/07_panel_segm_tools_annotations.jpg,jpg,Image Panel,,image,f88000ebbf83da18
-79bfab627d760d9a,79bfab627d760d9a,57c0cad0f9be43ed,techdoc/html/images/07_panel_segm_tools_annotations2.jpg,jpg,Image Panel,,image,f88000ebbf83da18
+9e4b4122a8e0070a,9e4b4122a8e0070a,57c0cad0f9be43ed,techdoc/html/images/07_panel_segm_tools_annotations.jpg,jpg,Image Panel,Segmentation/Mask,image,f88000ebbf83da18
+79bfab627d760d9a,79bfab627d760d9a,57c0cad0f9be43ed,techdoc/html/images/07_panel_segm_tools_annotations2.jpg,jpg,Image Panel,Segmentation/Mask,image,f88000ebbf83da18
 a094bd3cf3cc7227,a094bd3cf3cc7227,57c0cad0f9be43ed,techdoc/html/images/07_panel_segm_tools_brush.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 e0347b79b14886eb,e0347b79b14886eb,57c0cad0f9be43ed,techdoc/html/images/07_panel_segm_tools_brush_supervoxels.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 f45619b4cf8763a3,f45619b4cf8763a3,57c0cad0f9be43ed,techdoc/html/images/07_panel_segm_tools_bw_thresholding.jpg,jpg,Image Panel,,image,f88000ebbf83da18
@@ -44,18 +44,18 @@ a24b6272852e8465,a24b6272852e8465,57c0cad0f9be43ed,techdoc/html/images/07_panel_
 680382cf5142864a,680382cf5142864a,57c0cad0f9be43ed,techdoc/html/images/08_panel_roi.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 06b7090ddca4d5fc,06b7090ddca4d5fc,57c0cad0f9be43ed,techdoc/html/images/08_panel_roi_submenu.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 05c5c3958c798400,05c5c3958c798400,57c0cad0f9be43ed,techdoc/html/images/09_panel_view_settings.jpg,jpg,Image Panel,,image,f88000ebbf83da18
-1c0d40e863ce9b20,1c0d40e863ce9b20,57c0cad0f9be43ed,techdoc/html/images/10_panel_selection.jpg,jpg,Image Panel,,image,f88000ebbf83da18
+1c0d40e863ce9b20,1c0d40e863ce9b20,57c0cad0f9be43ed,techdoc/html/images/10_panel_selection.jpg,jpg,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),image,f88000ebbf83da18
 5111ed7f2c17d336,5111ed7f2c17d336,57c0cad0f9be43ed,techdoc/html/images/11_panel_adj.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 3e4c983262967d5e,3e4c983262967d5e,57c0cad0f9be43ed,techdoc/html/images/12_panel_adj_disp.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 202f214313fce4f9,202f214313fce4f9,57c0cad0f9be43ed,techdoc/html/images/12_panel_adj_disp_context.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 2f769144f50a6cac,2f769144f50a6cac,57c0cad0f9be43ed,techdoc/html/images/13_panel_frangi.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 dfaf2b08d911937d,dfaf2b08d911937d,57c0cad0f9be43ed,techdoc/html/images/13_panel_image_filters.jpg,jpg,Image Panel,,image,f88000ebbf83da18
-054129edf85821ff,054129edf85821ff,57c0cad0f9be43ed,techdoc/html/images/13_panel_mask_gen_common.jpg,jpg,Image Panel,,image,f88000ebbf83da18
+054129edf85821ff,054129edf85821ff,57c0cad0f9be43ed,techdoc/html/images/13_panel_mask_gen_common.jpg,jpg,Image Panel,Segmentation/Mask,image,f88000ebbf83da18
 11b12e445dd7f24f,11b12e445dd7f24f,57c0cad0f9be43ed,techdoc/html/images/13_panel_morph.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 173d550cad348262,173d550cad348262,57c0cad0f9be43ed,techdoc/html/images/13_panel_morph_extMaxTrans.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 094157715149aca4,094157715149aca4,57c0cad0f9be43ed,techdoc/html/images/13_panel_morph_extMinTrans.jpg,jpg,Image Panel,,image,f88000ebbf83da18
-83a3dd9c9e6224e0,83a3dd9c9e6224e0,57c0cad0f9be43ed,techdoc/html/images/14_panel_maskGen_strel.jpg,jpg,Image Panel,,image,f88000ebbf83da18
-71900d355a0171ca,71900d355a0171ca,57c0cad0f9be43ed,techdoc/html/images/14_panel_maskgenerators_bw.jpg,jpg,Image Panel,,image,f88000ebbf83da18
+83a3dd9c9e6224e0,83a3dd9c9e6224e0,57c0cad0f9be43ed,techdoc/html/images/14_panel_maskGen_strel.jpg,jpg,Image Panel,Segmentation/Mask,image,f88000ebbf83da18
+71900d355a0171ca,71900d355a0171ca,57c0cad0f9be43ed,techdoc/html/images/14_panel_maskgenerators_bw.jpg,jpg,Image Panel,Segmentation/Mask,image,f88000ebbf83da18
 75c72ad0aab9636f,75c72ad0aab9636f,57c0cad0f9be43ed,techdoc/html/images/16_panel_bg_remove.jpg,jpg,Image Panel,EM,image,f88000ebbf83da18
 bb5d10a0e6610093,bb5d10a0e6610093,57c0cad0f9be43ed,techdoc/html/images/16_panel_bg_remove_minima.jpg,jpg,Image Panel,EM,image,f88000ebbf83da18
 150d5a61ef90540b,150d5a61ef90540b,57c0cad0f9be43ed,techdoc/html/images/16_panel_bg_remove_morph.jpg,jpg,Image Panel,EM,image,f88000ebbf83da18
@@ -64,7 +64,7 @@ bb5d10a0e6610093,bb5d10a0e6610093,57c0cad0f9be43ed,techdoc/html/images/16_panel_
 1376491a7485bc44,1376491a7485bc44,57c0cad0f9be43ed,techdoc/html/images/18_panel_AnDiff_Schemes.jpg,jpg,Image Panel,Histology/IHC/IF,image,f88000ebbf83da18
 d443ab4efacd08c2,d443ab4efacd08c2,57c0cad0f9be43ed,techdoc/html/images/18_panel_AnDiff_filter.jpg,jpg,Image Panel,Histology/IHC/IF,image,f88000ebbf83da18
 dcdbfdeb620dd9b0,dcdbfdeb620dd9b0,57c0cad0f9be43ed,techdoc/html/images/18_panel_AnDiff_size.jpg,jpg,Image Panel,Histology/IHC/IF,image,f88000ebbf83da18
-c091398b520cf1b9,c091398b520cf1b9,57c0cad0f9be43ed,techdoc/html/images/20_fijiconnect_panel.jpg,jpg,Image Panel,,image,f88000ebbf83da18
+c091398b520cf1b9,c091398b520cf1b9,57c0cad0f9be43ed,techdoc/html/images/20_fijiconnect_panel.jpg,jpg,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),image,f88000ebbf83da18
 bf2ff0d56a386f41,bf2ff0d56a386f41,57c0cad0f9be43ed,techdoc/html/images/panel_dir_buffermenu.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 01691c4f439e23b1,01691c4f439e23b1,57c0cad0f9be43ed,techdoc/html/images/panel_dir_filecontext.jpg,jpg,Image Panel,,image,f88000ebbf83da18
 760ced820251e2f7,760ced820251e2f7,57c0cad0f9be43ed,techdoc/html/images/panel_im_view_slidercontext.jpg,jpg,Image Panel,,image,f88000ebbf83da18
@@ -273,12 +273,12 @@ e12f23d2f60af2be,e12f23d2f60af2be,f33b8836125ee319,Code for figure panels/Figure
 a976ca432c3c36d7,a976ca432c3c36d7,f33b8836125ee319,Code for figure panels/Figure 4/fig_4bef_edf_8ijklmnopq/Hegde_2025_Mouse_Lung_Nfe2l2_scRNA/Hegde_2025_Mouse_Lung_Nfe2l2_scRNA_files/figure-pdf/unnamed-chunk-26-1.pdf,pdf,Multi-Panel Composite,Figure Panel,panel,dd5c3b4b99112c67
 6e03161260f3c8ad,6e03161260f3c8ad,f33b8836125ee319,Code for figure panels/Figure 4/fig_4bef_edf_8ijklmnopq/Hegde_2025_Mouse_Lung_Nfe2l2_scRNA/Hegde_2025_Mouse_Lung_Nfe2l2_scRNA_files/figure-pdf/unnamed-chunk-30-1.pdf,pdf,Multi-Panel Composite,Figure Panel,panel,dd5c3b4b99112c67
 0051d9e7b91eee30,0051d9e7b91eee30,5b74f2409d7b970e,img/rfpeptides_fig1.png,png,Image Panel,,img,0a830e32de120f7e
-8f07392e39efbc00,8f07392e39efbc00,6ca7bff60675afd4,docs/Multiscale/Pictures/fig1.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,35afd57695c52d9c
+8f07392e39efbc00,8f07392e39efbc00,6ca7bff60675afd4,docs/Multiscale/Pictures/fig1.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,35afd57695c52d9c
 0f5780cea7d14607,0f5780cea7d14607,6ca7bff60675afd4,docs/fig1.png,png,Multi-Panel Composite,Figure Panel,fig,35afd57695c52d9c
 8d0695e2dd0ac645,8d0695e2dd0ac645,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/areaseries-chart-icon.png,png,Image Panel,,image,a4333a3a27595f4e
 18b01d37a086eb6b,18b01d37a086eb6b,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/areaseries-chart-icon16.png,png,Image Panel,,image,a4333a3a27595f4e
-c34bd258a7b89e53,c34bd258a7b89e53,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/areaseries-polar-icon.png,png,Image Panel,,image,a4333a3a27595f4e
-5307c0dc0556fe85,5307c0dc0556fe85,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/areaseries-polar-icon16.png,png,Image Panel,,image,a4333a3a27595f4e
+c34bd258a7b89e53,c34bd258a7b89e53,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/areaseries-polar-icon.png,png,Radar/Polar,Polar Chart,polar,a4333a3a27595f4e
+5307c0dc0556fe85,5307c0dc0556fe85,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/areaseries-polar-icon16.png,png,Radar/Polar,Polar Chart,polar,a4333a3a27595f4e
 6a07eaa0118724aa,6a07eaa0118724aa,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/barseries-icon.png,png,Image Panel,,image,a4333a3a27595f4e
 238adc6423036ea1,238adc6423036ea1,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/barseries-icon16.png,png,Image Panel,,image,a4333a3a27595f4e
 9f83c50744525f01,9f83c50744525f01,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/boxplotseries-chart-icon.png,png,Box/Violin Plot,Box Plot,boxplot,a4333a3a27595f4e
@@ -291,8 +291,8 @@ ec134b88f7f978ef,ec134b88f7f978ef,b76385270737b475,bin/PyMOL/Library/qml/QtChart
 70adc4d521c809a4,70adc4d521c809a4,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/horizontalstackedbarseries-icon16.png,png,Image Panel,,image,a4333a3a27595f4e
 1cce845893c2e551,1cce845893c2e551,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/lineseries-chart-icon.png,png,Image Panel,,image,a4333a3a27595f4e
 f46ce7108721a9a2,f46ce7108721a9a2,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/lineseries-chart-icon16.png,png,Image Panel,,image,a4333a3a27595f4e
-f7785ce69c69fa51,f7785ce69c69fa51,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/lineseries-polar-icon.png,png,Image Panel,,image,a4333a3a27595f4e
-225aa190b386fdef,225aa190b386fdef,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/lineseries-polar-icon16.png,png,Image Panel,,image,a4333a3a27595f4e
+f7785ce69c69fa51,f7785ce69c69fa51,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/lineseries-polar-icon.png,png,Radar/Polar,Polar Chart,polar,a4333a3a27595f4e
+225aa190b386fdef,225aa190b386fdef,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/lineseries-polar-icon16.png,png,Radar/Polar,Polar Chart,polar,a4333a3a27595f4e
 9eef9fbbcd09ad16,9eef9fbbcd09ad16,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/percentbarseries-icon.png,png,Image Panel,,image,a4333a3a27595f4e
 30bad6cb7b97f3d8,30bad6cb7b97f3d8,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/percentbarseries-icon16.png,png,Image Panel,,image,a4333a3a27595f4e
 a6234a7f0f2230bb,a6234a7f0f2230bb,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/pieseries-chart-icon.png,png,Pie/Donut,Pie Chart,pie,a4333a3a27595f4e
@@ -303,8 +303,8 @@ ee2efe3391592214,ee2efe3391592214,b76385270737b475,bin/PyMOL/Library/qml/QtChart
 fe8bd5b4d700e53b,fe8bd5b4d700e53b,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/scatterseries-polar-icon16.png,png,Scatter Plot,,scatter,a4333a3a27595f4e
 5ed24ecd081f26ed,5ed24ecd081f26ed,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/splineseries-chart-icon.png,png,Image Panel,,image,a4333a3a27595f4e
 17c4d905145713ae,17c4d905145713ae,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/splineseries-chart-icon16.png,png,Image Panel,,image,a4333a3a27595f4e
-847b8ebf055f5af7,847b8ebf055f5af7,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/splineseries-polar-icon.png,png,Image Panel,,image,a4333a3a27595f4e
-357052cbe2826afe,357052cbe2826afe,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/splineseries-polar-icon16.png,png,Image Panel,,image,a4333a3a27595f4e
+847b8ebf055f5af7,847b8ebf055f5af7,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/splineseries-polar-icon.png,png,Radar/Polar,Polar Chart,polar,a4333a3a27595f4e
+357052cbe2826afe,357052cbe2826afe,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/splineseries-polar-icon16.png,png,Radar/Polar,Polar Chart,polar,a4333a3a27595f4e
 a7f79ce9450291c3,a7f79ce9450291c3,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/stackedbarseries-icon.png,png,Image Panel,,image,a4333a3a27595f4e
 6265cb9c3eb61d22,6265cb9c3eb61d22,b76385270737b475,bin/PyMOL/Library/qml/QtCharts/designer/images/stackedbarseries-icon16.png,png,Image Panel,,image,a4333a3a27595f4e
 52e7379acec76a44,52e7379acec76a44,ac9c1ce086a7a184,docs/source/_static/corr_plot.png,png,Heatmap,Correlation Matrix,corr,152f933469553c66
@@ -344,10 +344,10 @@ f594e38847595cd5,f594e38847595cd5,df048d377485192c,figures/figure_1.png,png,Mult
 3ee3ffad30b14e5e,3ee3ffad30b14e5e,df048d377485192c,figures/final_biomass_point.png,png,Multi-Panel Composite,Figure Panel,figure,3e44578508641660
 e8d2b08c4aec0d30,e8d2b08c4aec0d30,df048d377485192c,figures/final_biomass_point_abs.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,3e44578508641660
 0e0b74f58bf52d68,0e0b74f58bf52d68,df048d377485192c,figures/final_biomass_point_abs.png,png,Multi-Panel Composite,Figure Panel,figure,3e44578508641660
-01f6be55c751d2bb,01f6be55c751d2bb,df048d377485192c,figures/final_cti_hist.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,3e44578508641660
-a2b93c2406f4bff7,a2b93c2406f4bff7,df048d377485192c,figures/final_cti_hist.png,png,Multi-Panel Composite,Figure Panel,figure,3e44578508641660
-f1f2d373dd0c8321,f1f2d373dd0c8321,df048d377485192c,figures/final_sti_cti.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,3e44578508641660
-eacb6ee4eb76a50d,eacb6ee4eb76a50d,df048d377485192c,figures/final_sti_cti.png,png,Multi-Panel Composite,Figure Panel,figure,3e44578508641660
+01f6be55c751d2bb,01f6be55c751d2bb,df048d377485192c,figures/final_cti_hist.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,3e44578508641660
+a2b93c2406f4bff7,a2b93c2406f4bff7,df048d377485192c,figures/final_cti_hist.png,png,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,3e44578508641660
+f1f2d373dd0c8321,f1f2d373dd0c8321,df048d377485192c,figures/final_sti_cti.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,3e44578508641660
+eacb6ee4eb76a50d,eacb6ee4eb76a50d,df048d377485192c,figures/final_sti_cti.png,png,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,3e44578508641660
 db506d5d40016dc8,db506d5d40016dc8,df048d377485192c,figures/inset_timeseries_BITS.pdf,pdf,Line Chart,Time Series,timeseries,3e44578508641660
 d940601f2b202ffd,d940601f2b202ffd,df048d377485192c,figures/inset_timeseries_BITS.png,png,Line Chart,Time Series,timeseries,3e44578508641660
 3f08feb6a5fea0eb,3f08feb6a5fea0eb,df048d377485192c,figures/inset_timeseries_DFO-QCS.pdf,pdf,Line Chart,Time Series,timeseries,3e44578508641660
@@ -390,8 +390,8 @@ b57b966da6489aa6,b57b966da6489aa6,df048d377485192c,figures/nepacific_bray.pdf,pd
 5bed42eb54ce35ee,5bed42eb54ce35ee,df048d377485192c,figures/nepacific_bray.png,png,Image Panel,Histology/IHC/IF,if,3e44578508641660
 07c722f664f6f174,07c722f664f6f174,df048d377485192c,figures/nepacific_cti.pdf,pdf,Image Panel,Histology/IHC/IF,if,3e44578508641660
 d2e1382d304c92fd,d2e1382d304c92fd,df048d377485192c,figures/nepacific_cti.png,png,Image Panel,Histology/IHC/IF,if,3e44578508641660
-f1390d537b799eaf,f1390d537b799eaf,df048d377485192c,figures/survey_regions_polar_polygon.jpg,jpg,Multi-Panel Composite,Figure Panel,figure,3e44578508641660
-399f7c2c4ac30f42,399f7c2c4ac30f42,df048d377485192c,figures/survey_regions_polar_polygon_jepa.jpg,jpg,Multi-Panel Composite,Figure Panel,figure,3e44578508641660
+f1390d537b799eaf,f1390d537b799eaf,df048d377485192c,figures/survey_regions_polar_polygon.jpg,jpg,Radar/Polar,Polar Chart,polar,3e44578508641660
+399f7c2c4ac30f42,399f7c2c4ac30f42,df048d377485192c,figures/survey_regions_polar_polygon_jepa.jpg,jpg,Radar/Polar,Polar Chart,polar,3e44578508641660
 8c01f9f75fbe321f,8c01f9f75fbe321f,877ba554716c4667,man/figures/ames-explain-global-parallel-dependence-1.png,png,Multi-Panel Composite,Figure Panel,figure,129c130faaf5f857
 6100a9263aeafce5,6100a9263aeafce5,877ba554716c4667,man/figures/ames-explain-global-parallel-importance-1.png,png,Multi-Panel Composite,Figure Panel,figure,129c130faaf5f857
 a5abd84a95e7ffaa,a5abd84a95e7ffaa,877ba554716c4667,man/figures/logo-fastshap.png,png,Multi-Panel Composite,Figure Panel,figure,129c130faaf5f857
@@ -442,7 +442,7 @@ d9b7e7cfedf27b49,d9b7e7cfedf27b49,e7c654c990f40746,Nanopore/result/tax/core_vs_t
 45f22d4d8634560f,45f22d4d8634560f,e7c654c990f40746,Nanopore/result/tax/donut_plot_South.pdf,pdf,Pie/Donut,Donut Chart,donut,f270e5498cf10abb
 00fcaf3bf3c8d7f0,00fcaf3bf3c8d7f0,e7c654c990f40746,Nanopore/result/tax/donut_plot_all_samples.pdf,pdf,Pie/Donut,Donut Chart,donut,f270e5498cf10abb
 6e946f33444ed5ca,6e946f33444ed5ca,e7c654c990f40746,Nanopore/result/tax/donut_plot_by_group.pdf,pdf,Pie/Donut,Donut Chart,donut,f270e5498cf10abb
-7440234162407916,7440234162407916,e7c654c990f40746,Nanopore/result/tax/radar_plot_micro.pdf,pdf,Plotting Script (Generic),Plot Script,plot,f270e5498cf10abb
+7440234162407916,7440234162407916,e7c654c990f40746,Nanopore/result/tax/radar_plot_micro.pdf,pdf,Radar/Polar,Radar Chart,radar,f270e5498cf10abb
 e8de91a7bff0bcfd,e8de91a7bff0bcfd,e7c654c990f40746,Nanopore/result/tax/sum_c.stackplot.group.pdf,pdf,Area/Stacked Chart,Stacked Area,stackplot,f270e5498cf10abb
 17e6e8772a284816,17e6e8772a284816,e7c654c990f40746,Nanopore/result/tax/sum_c.stackplot.sample.pdf,pdf,Area/Stacked Chart,Stacked Area,stackplot,f270e5498cf10abb
 8e8f6c2b56c72408,8e8f6c2b56c72408,e7c654c990f40746,Nanopore/result/tax/sum_f.stackplot.group.pdf,pdf,Area/Stacked Chart,Stacked Area,stackplot,f270e5498cf10abb
@@ -468,7 +468,7 @@ ad0bedeedf73903d,ad0bedeedf73903d,e7c654c990f40746,PacBio/result18/tax/core_vs_t
 295b0791f6f7589b,295b0791f6f7589b,e7c654c990f40746,PacBio/result18/tax/donut_plot_feces.pdf,pdf,Pie/Donut,Donut Chart,donut,f270e5498cf10abb
 467bd54dfaf93530,467bd54dfaf93530,e7c654c990f40746,PacBio/result18/tax/donut_plot_plaque.pdf,pdf,Pie/Donut,Donut Chart,donut,f270e5498cf10abb
 b9542fba60e7a53d,b9542fba60e7a53d,e7c654c990f40746,PacBio/result18/tax/donut_plot_saliva.pdf,pdf,Pie/Donut,Donut Chart,donut,f270e5498cf10abb
-c5aba3de8d178e1f,c5aba3de8d178e1f,e7c654c990f40746,PacBio/result18/tax/radar_plot_micro.pdf,pdf,Plotting Script (Generic),Plot Script,plot,f270e5498cf10abb
+c5aba3de8d178e1f,c5aba3de8d178e1f,e7c654c990f40746,PacBio/result18/tax/radar_plot_micro.pdf,pdf,Radar/Polar,Radar Chart,radar,f270e5498cf10abb
 cebdb2fc0d386334,cebdb2fc0d386334,e7c654c990f40746,PacBio/result18/tax/sum_c.stackplot.group.pdf,pdf,Area/Stacked Chart,Stacked Area,stackplot,f270e5498cf10abb
 cf7b3f17a09cff07,cf7b3f17a09cff07,e7c654c990f40746,PacBio/result18/tax/sum_c.stackplot.sample.pdf,pdf,Area/Stacked Chart,Stacked Area,stackplot,f270e5498cf10abb
 ef6d75c5b22fed03,ef6d75c5b22fed03,e7c654c990f40746,PacBio/result18/tax/sum_f.stackplot.group.pdf,pdf,Area/Stacked Chart,Stacked Area,stackplot,f270e5498cf10abb
@@ -481,7 +481,7 @@ e3809513583d925e,e3809513583d925e,e7c654c990f40746,PacBio/result18/tax/sum_o.sta
 8c654bdfca21e049,8c654bdfca21e049,e7c654c990f40746,PacBio/result18/tax/sum_p.stackplot.sample.pdf,pdf,Area/Stacked Chart,Stacked Area,stackplot,f270e5498cf10abb
 b94825963e77f532,b94825963e77f532,e7c654c990f40746,PacBio/result18/tax/sum_s.stackplot.group.pdf,pdf,Area/Stacked Chart,Stacked Area,stackplot,f270e5498cf10abb
 0816a4567b5bf1ba,0816a4567b5bf1ba,e7c654c990f40746,PacBio/result18/tax/sum_s.stackplot.sample.pdf,pdf,Area/Stacked Chart,Stacked Area,stackplot,f270e5498cf10abb
-d351026687dcd245,d351026687dcd245,e7c654c990f40746,advanced/EnvironmentalFactors/rda_plot.pdf,pdf,Plotting Script (Generic),Plot Script,plot,f270e5498cf10abb
+d351026687dcd245,d351026687dcd245,e7c654c990f40746,advanced/EnvironmentalFactors/rda_plot.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,f270e5498cf10abb
 f6477b497975522b,f6477b497975522b,e7c654c990f40746,advanced/Network2Compare/abundance_cd2+_igraph.pdf,pdf,Network/Graph,,network,f270e5498cf10abb
 119455e930d00b2f,119455e930d00b2f,e7c654c990f40746,advanced/Network2Compare/abundance_cd2+_igraph_circle.pdf,pdf,Network/Graph,,network,f270e5498cf10abb
 09a7a085dc10e053,09a7a085dc10e053,e7c654c990f40746,advanced/Network2Compare/abundance_cd2+_igraph_fruchterman.reingold.pdf,pdf,Network/Graph,,network,f270e5498cf10abb
@@ -596,10 +596,10 @@ c7320e031f40320e,c7320e031f40320e,372f9e651f948426,extended/extended1/plot/Exten
 30f6b137f85e9747,30f6b137f85e9747,372f9e651f948426,extended/extended10/plots/ExtendedFig10a_site_selection_manhattan.pdf,pdf,Genome Tracks,Manhattan/QQ,manhattan,9c2887d0984aeacc
 16709cc269bf8a03,16709cc269bf8a03,372f9e651f948426,extended/extended10/plots/ExtendedFig10a_site_selection_manhattan.png,png,Genome Tracks,Manhattan/QQ,manhattan,9c2887d0984aeacc
 138f6aa4ba8bc3ae,138f6aa4ba8bc3ae,372f9e651f948426,extended/extended10/plots/ExtendedFig10b_TP53_multipanel_saturation.half_violin.pdf,pdf,Box/Violin Plot,Violin Plot,violin,9c2887d0984aeacc
-2b96eb31fed543e1,2b96eb31fed543e1,372f9e651f948426,extended/extended10/plots/ExtendedFig10bc.EP300.selection_groups.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
-22078ff64c904e4c,22078ff64c904e4c,372f9e651f948426,extended/extended10/plots/ExtendedFig10bc.TP53.selection_groups.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
-35f5893425e8c78f,35f5893425e8c78f,372f9e651f948426,extended/extended10/plots/ExtendedFig10d_TERTp_selection_comparisons.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
-65b69523011ed659,65b69523011ed659,372f9e651f948426,extended/extended2/plots/ExtendedFig2a_left_expected.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
+2b96eb31fed543e1,2b96eb31fed543e1,372f9e651f948426,extended/extended10/plots/ExtendedFig10bc.EP300.selection_groups.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,9c2887d0984aeacc
+22078ff64c904e4c,22078ff64c904e4c,372f9e651f948426,extended/extended10/plots/ExtendedFig10bc.TP53.selection_groups.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,9c2887d0984aeacc
+35f5893425e8c78f,35f5893425e8c78f,372f9e651f948426,extended/extended10/plots/ExtendedFig10d_TERTp_selection_comparisons.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,9c2887d0984aeacc
+65b69523011ed659,65b69523011ed659,372f9e651f948426,extended/extended2/plots/ExtendedFig2a_left_expected.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,9c2887d0984aeacc
 166a4a06a2bf95ee,166a4a06a2bf95ee,372f9e651f948426,extended/extended2/plots/ExtendedFig2a_right.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
 46b1ef5bc0352688,46b1ef5bc0352688,372f9e651f948426,extended/extended2/plots/ExtendedFig2b_LCMs_lawson_vs_duplex_all_profiles.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
 8ebe704f162340c3,8ebe704f162340c3,372f9e651f948426,extended/extended2/plots/ExtendedFig2c_mutrate_comparison_lawson.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
@@ -641,7 +641,7 @@ d4076594957d1207,d4076594957d1207,372f9e651f948426,extended/extended6/figs/extFi
 22f2c8db9c83cf55,22f2c8db9c83cf55,372f9e651f948426,extended/extended6/figs/extFig6a.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
 2552b7eac73ac42f,2552b7eac73ac42f,372f9e651f948426,extended/extended6/figs/extFig6b_allsnvs.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
 bd84c2307a725900,bd84c2307a725900,372f9e651f948426,extended/extended6/figs/extFig6b_missense.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
-f38d556a40209588,f38d556a40209588,372f9e651f948426,extended/extended6/figs/extFig6b_nonprotaffecting.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
+f38d556a40209588,f38d556a40209588,372f9e651f948426,extended/extended6/figs/extFig6b_nonprotaffecting.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,9c2887d0984aeacc
 3eb59a011412d84e,3eb59a011412d84e,372f9e651f948426,extended/extended6/figs/extFig6b_truncating.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
 c4e9a72cc502cd5f,c4e9a72cc502cd5f,372f9e651f948426,extended/extended6/figs/extFig6c_missense.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
 e5cd3f5d1193504b,e5cd3f5d1193504b,372f9e651f948426,extended/extended6/figs/extFig6c_truncating.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
@@ -671,7 +671,7 @@ e39c72ca664d66c5,e39c72ca664d66c5,372f9e651f948426,extended/extended9/plot/satur
 911ed80dd159eee1,911ed80dd159eee1,372f9e651f948426,extended/extended9/plot/saturationkinetics/propotion_mutated_sites_residue_RB1.png,png,Plotting Script (Generic),Plot Script,plot,9c2887d0984aeacc
 95289ce50800d2af,95289ce50800d2af,372f9e651f948426,extended/extended9/plot/saturationkinetics/propotion_mutated_sites_residue_RBM10.png,png,Plotting Script (Generic),Plot Script,plot,9c2887d0984aeacc
 0757000c9791f8d5,0757000c9791f8d5,372f9e651f948426,extended/extended9/plot/saturationkinetics/propotion_mutated_sites_residue_STAG2.png,png,Plotting Script (Generic),Plot Script,plot,9c2887d0984aeacc
-9741e42ce70c8e9d,9741e42ce70c8e9d,372f9e651f948426,extended/extended9/plot/side/EP300.domain_selection.pdf,pdf,Plotting Script (Generic),Plot Script,plot,9c2887d0984aeacc
+9741e42ce70c8e9d,9741e42ce70c8e9d,372f9e651f948426,extended/extended9/plot/side/EP300.domain_selection.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,9c2887d0984aeacc
 8e45cde8ececa52d,8e45cde8ececa52d,372f9e651f948426,extended/extended9/plot/side/EP300.normal.stacked_horizontal.pdf,pdf,Plotting Script (Generic),Plot Script,plot,9c2887d0984aeacc
 9761da1325086e7d,9761da1325086e7d,372f9e651f948426,main/Fig1/figs/fig1b.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
 5fdad95c884d31ed,5fdad95c884d31ed,372f9e651f948426,main/Fig1/figs/fig1c.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
@@ -704,7 +704,7 @@ bbcc9b4ef132ae05,bbcc9b4ef132ae05,372f9e651f948426,main/Fig4/figs/fig4b.pdf,pdf,
 d7b6581d89a96b90,d7b6581d89a96b90,372f9e651f948426,main/Fig5/plots/Fig5a_proportion_and_count_mut_prot.normal.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
 62f7094946decfd9,62f7094946decfd9,372f9e651f948426,main/Fig5/plots/Fig5d_TP53_experimental_saturation_fig.half_violin.pdf,pdf,Box/Violin Plot,Violin Plot,violin,9c2887d0984aeacc
 847172c05388f358,847172c05388f358,372f9e651f948426,main/Fig5/plots/Fig5f_TERT_needleplots.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
-67432c8de5cb8936,67432c8de5cb8936,372f9e651f948426,main/Fig5/plots/fig5c.TP53.normal.stacked_horizontal.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
+67432c8de5cb8936,67432c8de5cb8936,372f9e651f948426,main/Fig5/plots/fig5c.TP53.normal.stacked_horizontal.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,9c2887d0984aeacc
 33d79eff86807022,33d79eff86807022,372f9e651f948426,main/Fig5/plots/fig5c.core.TP53.pdf,pdf,Multi-Panel Composite,Figure Panel,fig,9c2887d0984aeacc
 aa7a37ac5cef66da,aa7a37ac5cef66da,372f9e651f948426,main/Fig5/plots/fig5e.TP53.domain_selection.pdf,pdf,3D/Structure,,3d,9c2887d0984aeacc
 53750374cf9a6f71,53750374cf9a6f71,372f9e651f948426,main/Fig5/plots/saturationkinetics/legend_empirical_discovery_index.pdf,pdf,Image Panel,EM,em,9c2887d0984aeacc
@@ -741,7 +741,7 @@ e95c8046eed1ef3f,e95c8046eed1ef3f,9bc19b9b62731fba,figures/clean/figureED07.pdf,
 6c0e8e0006855c24,6c0e8e0006855c24,9bc19b9b62731fba,figures/clean/figureS01.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,cd9f14f10a14a4a0
 ee28904cec322b1e,ee28904cec322b1e,9bc19b9b62731fba,figures/raw/figure01_trends.pdf,pdf,Line Chart,,trend,cd9f14f10a14a4a0
 643665be38f7a00a,643665be38f7a00a,9bc19b9b62731fba,figures/raw/figure02a_classification_sankey.pdf,pdf,Network/Graph,Sankey,sankey,cd9f14f10a14a4a0
-a351d68d0a5e3717,a351d68d0a5e3717,9bc19b9b62731fba,figures/raw/figure02b-c_pct_undone.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,cd9f14f10a14a4a0
+a351d68d0a5e3717,a351d68d0a5e3717,9bc19b9b62731fba,figures/raw/figure02b-c_pct_undone.pdf,pdf,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,cd9f14f10a14a4a0
 d58476725ba3736e,d58476725ba3736e,9bc19b9b62731fba,figures/raw/figure03_smoke_influence.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,cd9f14f10a14a4a0
 4379653c4c4a8947,4379653c4c4a8947,9bc19b9b62731fba,figures/raw/figure04_VPD_smoke.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,cd9f14f10a14a4a0
 571292930ca4c794,571292930ca4c794,9bc19b9b62731fba,figures/raw/figureED01a_station-day_example.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,cd9f14f10a14a4a0
@@ -979,7 +979,7 @@ ef139158bf5c64b1,ef139158bf5c64b1,21cb8404d80cc08c,rtdocs/super_enhancers/figure
 5b6d093be9c8eb62,5b6d093be9c8eb62,21cb8404d80cc08c,rtdocs/super_enhancers/figure/plot_MYC_enhancers-1.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
 9821f4d9f3d99eae,9821f4d9f3d99eae,21cb8404d80cc08c,rtdocs/super_enhancers/figure/plot_MYC_enhancers-2.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
 eddee6b463f637a4,eddee6b463f637a4,21cb8404d80cc08c,rtdocs/super_enhancers/figure/plot_MYC_enhancers-3.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
-9e70e2ee552dcc17,9e70e2ee552dcc17,21cb8404d80cc08c,rtdocs/super_enhancers/figure/random_fact-1.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
+9e70e2ee552dcc17,9e70e2ee552dcc17,21cb8404d80cc08c,rtdocs/super_enhancers/figure/random_fact-1.png,png,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,ed884feb48bf53de
 c46f023441895d0f,c46f023441895d0f,21cb8404d80cc08c,rtdocs/super_enhancers/figure/setting_thresholds-1.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
 4147113448f1c720,4147113448f1c720,21cb8404d80cc08c,rtdocs/super_enhancers/figure/starting_analysis-1.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
 859088c237cad32a,859088c237cad32a,21cb8404d80cc08c,rtdocs/super_enhancers/figure/starting_analysis_plot-1.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
@@ -1016,7 +1016,7 @@ e7fe3e686dea91cb,e7fe3e686dea91cb,21cb8404d80cc08c,rtdocs/vignetteSVs/figure/plo
 76e970175bcf4f94,76e970175bcf4f94,21cb8404d80cc08c,rtdocs/vignetteSmallDS/figure/plot-colormap-1.png,png,Spatial/Map,Atlas/Map,map,ed884feb48bf53de
 c2aa7ec01be5ba0d,c2aa7ec01be5ba0d,21cb8404d80cc08c,rtdocs/vignetteSmallDS/figure/plot-gr-1.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
 17645111a5d3566a,17645111a5d3566a,21cb8404d80cc08c,rtdocs/vignetteSmallDS/figure/plot-gr.colorfield-1.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
-7d5cf128b41c08bc,7d5cf128b41c08bc,21cb8404d80cc08c,rtdocs/vignetteSmallDS/figure/plot-labelfield-1.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
+7d5cf128b41c08bc,7d5cf128b41c08bc,21cb8404d80cc08c,rtdocs/vignetteSmallDS/figure/plot-labelfield-1.png,png,Image Panel,Segmentation/Mask,label,ed884feb48bf53de
 9bbccd1e9aca95cf,9bbccd1e9aca95cf,21cb8404d80cc08c,rtdocs/vignetteSmallDS/figure/plot-lines-1.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
 ab5229964378645e,ab5229964378645e,21cb8404d80cc08c,rtdocs/vignetteSmallDS/figure/plot-overlappingtiles-1.png,png,Network/Graph,,ppi,ed884feb48bf53de
 cf271b6007837821,cf271b6007837821,21cb8404d80cc08c,rtdocs/vignetteSmallDS/figure/plot-stack.gap2-1.png,png,Multi-Panel Composite,Figure Panel,figure,ed884feb48bf53de
@@ -1317,7 +1317,7 @@ f2da5b91a0014970,f2da5b91a0014970,38858eac8a95cf98,man/figures/unnamed-chunk-21-
 56ac9d8aba74ba0c,56ac9d8aba74ba0c,38858eac8a95cf98,man/figures/unnamed-chunk-24-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 27fd69614e838989,27fd69614e838989,245afaedf7182cac,doc/source/_static/schemas/04_plot_overview.svg,svg,Image Panel,EM,em,6682cac745cb5c37
 5d74496abf42763a,5d74496abf42763a,245afaedf7182cac,doc/source/_static/whatsnew_plot_submethods.png,png,Dimensionality Reduction,t-SNE,tsne,6682cac745cb5c37
-b2167636aace1963,b2167636aace1963,8e63858ab61b230b,docs/flowchart_reaction.svg,svg,Plotting Script (Generic),Plot Script,chart,00385414c2fc4b3b
+b2167636aace1963,b2167636aace1963,8e63858ab61b230b,docs/flowchart_reaction.svg,svg,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,00385414c2fc4b3b
 db814d4cffc9202e,db814d4cffc9202e,8e63858ab61b230b,docs/flowchart_skeleton.svg,svg,Plotting Script (Generic),Plot Script,chart,00385414c2fc4b3b
 e389eaea2d14ac4e,e389eaea2d14ac4e,e42b781944c46f1b,inst/legacy/examples/choropleth/Rplots.pdf,pdf,Plotting Script (Generic),Plot Script,plot,c51349e7e40bbc29
 e858a40c7fe8782c,e858a40c7fe8782c,0f38d7d2df9e62df,man/figures/logo.png,png,Multi-Panel Composite,Figure Panel,figure,f1c249418cff243a
@@ -1339,8 +1339,8 @@ cc15c812c3e4c241,cc15c812c3e4c241,208308526c4b1ed1,docs/articles/examples_files/
 9b0841ec9b1375b6,9b0841ec9b1375b6,208308526c4b1ed1,docs/articles/examples_files/figure-html/clipping-1.png,png,Network/Graph,,ppi,c51349e7e40bbc29
 78383d537cdefd72,78383d537cdefd72,208308526c4b1ed1,docs/articles/examples_files/figure-html/comparison-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 0b298d4c1747fea6,0b298d4c1747fea6,208308526c4b1ed1,docs/articles/examples_files/figure-html/coord_flip-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
-3ac8e5a305d46d0f,3ac8e5a305d46d0f,208308526c4b1ed1,docs/articles/examples_files/figure-html/direction_x-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
-a24bf565c9bf6619,a24bf565c9bf6619,208308526c4b1ed1,docs/articles/examples_files/figure-html/direction_y-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
+3ac8e5a305d46d0f,3ac8e5a305d46d0f,208308526c4b1ed1,docs/articles/examples_files/figure-html/direction_x-1.png,png,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,c51349e7e40bbc29
+a24bf565c9bf6619,a24bf565c9bf6619,208308526c4b1ed1,docs/articles/examples_files/figure-html/direction_y-1.png,png,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,c51349e7e40bbc29
 92c2d0cd124ae545,92c2d0cd124ae545,208308526c4b1ed1,docs/articles/examples_files/figure-html/element_text_repel_basic-1.png,png,Image Panel,EM,em,c51349e7e40bbc29
 1c8f600b9d470d03,1c8f600b9d470d03,208308526c4b1ed1,docs/articles/examples_files/figure-html/element_text_repel_curved-1.png,png,Line Chart,,curve,c51349e7e40bbc29
 a1512a48a5e13371,a1512a48a5e13371,208308526c4b1ed1,docs/articles/examples_files/figure-html/element_text_repel_secondary-1.png,png,Image Panel,EM,em,c51349e7e40bbc29
@@ -1352,13 +1352,13 @@ a15a9342cbff1f5c,a15a9342cbff1f5c,208308526c4b1ed1,docs/articles/examples_files/
 de6ef5591a61b75d,de6ef5591a61b75d,208308526c4b1ed1,docs/articles/examples_files/figure-html/geom_text_repel-hjust-2.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 d029cb732d8eb0f0,d029cb732d8eb0f0,208308526c4b1ed1,docs/articles/examples_files/figure-html/japanese-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 6910e6995e1b5de6,6910e6995e1b5de6,208308526c4b1ed1,docs/articles/examples_files/figure-html/jitter-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
-481ad94e8f2d314a,481ad94e8f2d314a,208308526c4b1ed1,docs/articles/examples_files/figure-html/label-sf-objects-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
-da1e3f4f48cb4afc,da1e3f4f48cb4afc,208308526c4b1ed1,docs/articles/examples_files/figure-html/label_border-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
-ef760c13480afb9a,ef760c13480afb9a,208308526c4b1ed1,docs/articles/examples_files/figure-html/label_lineheight-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
+481ad94e8f2d314a,481ad94e8f2d314a,208308526c4b1ed1,docs/articles/examples_files/figure-html/label-sf-objects-1.png,png,Image Panel,Segmentation/Mask,label,c51349e7e40bbc29
+da1e3f4f48cb4afc,da1e3f4f48cb4afc,208308526c4b1ed1,docs/articles/examples_files/figure-html/label_border-1.png,png,Image Panel,Segmentation/Mask,label,c51349e7e40bbc29
+ef760c13480afb9a,ef760c13480afb9a,208308526c4b1ed1,docs/articles/examples_files/figure-html/label_lineheight-1.png,png,Image Panel,Segmentation/Mask,label,c51349e7e40bbc29
 b055e3660b2ec2f6,b055e3660b2ec2f6,208308526c4b1ed1,docs/articles/examples_files/figure-html/line_curve-1.png,png,Line Chart,,curve,c51349e7e40bbc29
 6750e3b7dbc3d6f5,6750e3b7dbc3d6f5,208308526c4b1ed1,docs/articles/examples_files/figure-html/line_curve_annotate-1.png,png,Line Chart,,curve,c51349e7e40bbc29
 06e2938abe075559,06e2938abe075559,208308526c4b1ed1,docs/articles/examples_files/figure-html/line_curve_annotate_linetype-1.png,png,Line Chart,,curve,c51349e7e40bbc29
-fbbcada04e9ea28e,fbbcada04e9ea28e,208308526c4b1ed1,docs/articles/examples_files/figure-html/line_inflect_and_square-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
+fbbcada04e9ea28e,fbbcada04e9ea28e,208308526c4b1ed1,docs/articles/examples_files/figure-html/line_inflect_and_square-1.png,png,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,c51349e7e40bbc29
 764aab9fe75c3080,764aab9fe75c3080,208308526c4b1ed1,docs/articles/examples_files/figure-html/line_shape-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 2a2c34a54b6d679a,2a2c34a54b6d679a,208308526c4b1ed1,docs/articles/examples_files/figure-html/marquee-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 9294618af9754d3d,9294618af9754d3d,208308526c4b1ed1,docs/articles/examples_files/figure-html/marquee-pixelated-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
@@ -1367,15 +1367,15 @@ fbbcada04e9ea28e,fbbcada04e9ea28e,208308526c4b1ed1,docs/articles/examples_files/
 2761564e36822081,2761564e36822081,208308526c4b1ed1,docs/articles/examples_files/figure-html/neat-offset-y-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 1eb10241bb95f2f3,1eb10241bb95f2f3,208308526c4b1ed1,docs/articles/examples_files/figure-html/plot_edges-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 ccf4e82a911788c2,ccf4e82a911788c2,208308526c4b1ed1,docs/articles/examples_files/figure-html/point_size_cars-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
-93da7b59a574af54,93da7b59a574af54,208308526c4b1ed1,docs/articles/examples_files/figure-html/point_size_cars_label-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
+93da7b59a574af54,93da7b59a574af54,208308526c4b1ed1,docs/articles/examples_files/figure-html/point_size_cars_label-1.png,png,Image Panel,Segmentation/Mask,label,c51349e7e40bbc29
 7f9a80a06e125090,7f9a80a06e125090,208308526c4b1ed1,docs/articles/examples_files/figure-html/point_size_na-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
-ba9fe87c60b8c929,ba9fe87c60b8c929,208308526c4b1ed1,docs/articles/examples_files/figure-html/polar-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
+ba9fe87c60b8c929,ba9fe87c60b8c929,208308526c4b1ed1,docs/articles/examples_files/figure-html/polar-1.png,png,Radar/Polar,Polar Chart,polar,c51349e7e40bbc29
 5d59978dbc7a4741,5d59978dbc7a4741,208308526c4b1ed1,docs/articles/examples_files/figure-html/position_nudge_center-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 4b7879303306e17b,4b7879303306e17b,208308526c4b1ed1,docs/articles/examples_files/figure-html/pseudo_log_trans-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 d8f234608eba6d3e,d8f234608eba6d3e,208308526c4b1ed1,docs/articles/examples_files/figure-html/quasirandom-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 bb0bc646483fb5a3,bb0bc646483fb5a3,208308526c4b1ed1,docs/articles/examples_files/figure-html/remove_a_2-1.png,png,Image Panel,EM,em,c51349e7e40bbc29
 760e229807a00205,760e229807a00205,208308526c4b1ed1,docs/articles/examples_files/figure-html/shadowtext-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
-ab66838dcb3de95c,ab66838dcb3de95c,208308526c4b1ed1,docs/articles/examples_files/figure-html/show_all_labels-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
+ab66838dcb3de95c,ab66838dcb3de95c,208308526c4b1ed1,docs/articles/examples_files/figure-html/show_all_labels-1.png,png,Image Panel,Segmentation/Mask,label,c51349e7e40bbc29
 70a40be97e9eb3e7,70a40be97e9eb3e7,208308526c4b1ed1,docs/articles/examples_files/figure-html/stat_summary-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 afb8e0b536a09f7a,afb8e0b536a09f7a,208308526c4b1ed1,docs/articles/examples_files/figure-html/timing-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 2fa945fbf2fc3ff3,2fa945fbf2fc3ff3,208308526c4b1ed1,docs/articles/examples_files/figure-html/wordcloud-1.png,png,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
@@ -1415,7 +1415,7 @@ a664810c1f18c089,a664810c1f18c089,3e0d238f8305c56c,man/figures/readme/gallery-ba
 b1f017897fef93fe,b1f017897fef93fe,3e0d238f8305c56c,man/figures/readme/gallery-density-array.jpg,jpg,Histogram/Density,Density/KDE,density,c51349e7e40bbc29
 d71990cc8f41c1fd,d71990cc8f41c1fd,3e0d238f8305c56c,man/figures/readme/gallery-density-grid.jpg,jpg,Histogram/Density,Density/KDE,density,c51349e7e40bbc29
 7ae402358511c5ea,7ae402358511c5ea,3e0d238f8305c56c,man/figures/readme/gallery-map-array.jpg,jpg,Spatial/Map,Atlas/Map,map,c51349e7e40bbc29
-99580fd7875fb138,99580fd7875fb138,3e0d238f8305c56c,man/figures/readme/gallery-rect-array.jpg,jpg,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
+99580fd7875fb138,99580fd7875fb138,3e0d238f8305c56c,man/figures/readme/gallery-rect-array.jpg,jpg,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,c51349e7e40bbc29
 96ee69ee799db35c,96ee69ee799db35c,3e0d238f8305c56c,man/figures/readme/ggpattern.jpg,jpg,Multi-Panel Composite,Figure Panel,figure,c51349e7e40bbc29
 8eca6e24b2f3d3aa,8eca6e24b2f3d3aa,3e0d238f8305c56c,tests/testthat/_snaps/geom-boxplot/boxplot.svg,svg,Box/Violin Plot,Box Plot,boxplot,c51349e7e40bbc29
 d41abfe115c50c0f,d41abfe115c50c0f,3e0d238f8305c56c,vignettes/images/gallery-array-boxplot-1.png,png,Box/Violin Plot,Box Plot,boxplot,c51349e7e40bbc29
@@ -1474,14 +1474,14 @@ d4359184670c9a68,d4359184670c9a68,03e2b73b7f2ed576,tests/testthat/_snaps/arithme
 0081217a53ab958c,0081217a53ab958c,03e2b73b7f2ed576,tests/testthat/_snaps/arithmetic/adding-to-all-subplots-patchwork-theme-bw.svg,svg,Image Panel,EM,em,4721dff8e84bd763; 1cfeacbbaf9bfef7; c51349e7e40bbc29
 6789bfee4f2c0ac4,6789bfee4f2c0ac4,03e2b73b7f2ed576,tests/testthat/_snaps/arithmetic/pack-4-plots-p1-p2-p3-p4.svg,svg,Plotting Script (Generic),Plot Script,plot,4721dff8e84bd763; 1cfeacbbaf9bfef7; c51349e7e40bbc29
 a701f9d9296575a4,a701f9d9296575a4,03e2b73b7f2ed576,tests/testthat/_snaps/arithmetic/stack-3-plots-p1-p2-p3.svg,svg,Plotting Script (Generic),Plot Script,plot,4721dff8e84bd763; 1cfeacbbaf9bfef7; c51349e7e40bbc29
-7b9eb7c37afa8c9a,7b9eb7c37afa8c9a,03e2b73b7f2ed576,tests/testthat/_snaps/collect/collect-guides-with-multiple-plots-with-null-unit.svg,svg,Plotting Script (Generic),Plot Script,plot,4721dff8e84bd763; 1cfeacbbaf9bfef7; c51349e7e40bbc29
+7b9eb7c37afa8c9a,7b9eb7c37afa8c9a,03e2b73b7f2ed576,tests/testthat/_snaps/collect/collect-guides-with-multiple-plots-with-null-unit.svg,svg,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,4721dff8e84bd763; 1cfeacbbaf9bfef7; c51349e7e40bbc29
 7704384ff1c571f7,7704384ff1c571f7,03e2b73b7f2ed576,tests/testthat/_snaps/layout/free-panel-works-on-one-side.svg,svg,Multi-Panel Composite,Figure Panel,panel,4721dff8e84bd763; 1cfeacbbaf9bfef7; c51349e7e40bbc29
 27d7e0a8c857f63f,27d7e0a8c857f63f,03e2b73b7f2ed576,tests/testthat/_snaps/layout/free-panel-works.svg,svg,Multi-Panel Composite,Figure Panel,panel,4721dff8e84bd763; 1cfeacbbaf9bfef7; c51349e7e40bbc29
-9e115217e1511d8f,9e115217e1511d8f,11ce2fa2dfa1bfcc,analysis-plots/figures/country_percents_labeled.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,17249427f0b85682
+9e115217e1511d8f,9e115217e1511d8f,11ce2fa2dfa1bfcc,analysis-plots/figures/country_percents_labeled.pdf,pdf,Image Panel,Segmentation/Mask,label,17249427f0b85682
 bd7c18d164f001b7,bd7c18d164f001b7,11ce2fa2dfa1bfcc,analysis-plots/figures/decades.png,png,Multi-Panel Composite,Figure Panel,figure,17249427f0b85682
-99f81c3824d0dac4,99f81c3824d0dac4,11ce2fa2dfa1bfcc,analysis-plots/figures/field_percents_labeled.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,17249427f0b85682
+99f81c3824d0dac4,99f81c3824d0dac4,11ce2fa2dfa1bfcc,analysis-plots/figures/field_percents_labeled.pdf,pdf,Image Panel,Segmentation/Mask,label,17249427f0b85682
 a9bc1a62be46d172,a9bc1a62be46d172,11ce2fa2dfa1bfcc,analysis-plots/figures/fightin_words.png,png,Multi-Panel Composite,Figure Panel,figure,17249427f0b85682
-38ee97080500da4c,38ee97080500da4c,11ce2fa2dfa1bfcc,analysis-plots/figures/inst_percents_labeled.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,17249427f0b85682
+38ee97080500da4c,38ee97080500da4c,11ce2fa2dfa1bfcc,analysis-plots/figures/inst_percents_labeled.pdf,pdf,Image Panel,Segmentation/Mask,label,17249427f0b85682
 0d6640b7874eca88,0d6640b7874eca88,11ce2fa2dfa1bfcc,analysis-plots/figures/pie.png,png,Pie/Donut,Pie Chart,pie,17249427f0b85682
 491a42b1eb40c4ae,491a42b1eb40c4ae,11ce2fa2dfa1bfcc,analysis-plots/figures/top_countries.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,17249427f0b85682
 4c0f87d68984cd92,4c0f87d68984cd92,11ce2fa2dfa1bfcc,analysis-plots/figures/top_insts.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,17249427f0b85682
@@ -1622,7 +1622,7 @@ f712b6f5722c2a2d,f712b6f5722c2a2d,10a79ea94842c429,example/humanPFC/plot/cell_42
 ac4a091219646e0a,ac4a091219646e0a,10a79ea94842c429,example/humanPFC/plot/cell_4238_100k_pad1_std1_rp0.5_sqrtvc_dist10M_u15.batch_cluster.png,png,Plotting Script (Generic),Plot Script,plot,b34f521c2d2e1671
 b9c9b22d237a8dea,b9c9b22d237a8dea,10a79ea94842c429,example/humanPFC/plot/cell_4238_25k_pad2_std1_rp0.5_sqrtvc_boundary_w10_colsum5_logzscore2_tfidf_u15.batch_cluster.png,png,Plotting Script (Generic),Plot Script,plot,b34f521c2d2e1671
 aa5b8c8c0dcfb0b5,aa5b8c8c0dcfb0b5,10a79ea94842c429,example/humanPFC/plot/cell_4238_25k_pad2_std1_rp0.5_sqrtvc_dim15_ins.batch_cluster.png,png,Plotting Script (Generic),Plot Script,plot,b34f521c2d2e1671
-64fcafd169e22375,64fcafd169e22375,10a79ea94842c429,example/plot/Introduction.png,png,Plotting Script (Generic),Plot Script,plot,b34f521c2d2e1671
+64fcafd169e22375,64fcafd169e22375,10a79ea94842c429,example/plot/Introduction.png,png,Image Panel,Clinical Imaging (MRI/CT/US/X-ray),ct,b34f521c2d2e1671
 5c6112099caa5e77,5c6112099caa5e77,10a79ea94842c429,example/plot/framework.png,png,Plotting Script (Generic),Plot Script,plot,b34f521c2d2e1671
 91dd5bda91b019cf,91dd5bda91b019cf,10a79ea94842c429,example/plot/schicluster.pdf,pdf,Plotting Script (Generic),Plot Script,plot,b34f521c2d2e1671
 bc6cb9296fb09d2f,bc6cb9296fb09d2f,10a79ea94842c429,example/plot/schicluster.svg,svg,Plotting Script (Generic),Plot Script,plot,b34f521c2d2e1671
@@ -1846,3 +1846,36 @@ deca1b309fc5552b,deca1b309fc5552b,4c28d018f77b6e83,Results/M2/optic_disc_cup/res
 6d1a6bffc29a6ae9,6d1a6bffc29a6ae9,4c28d018f77b6e83,Results/M2/optic_disc_cup/resized/2_ddr.png,png,Other/Uncategorized,,,23c9dd0113f0b1de
 b42925af1398d7e9,b42925af1398d7e9,4c28d018f77b6e83,Results/M2/optic_disc_cup/resized/3_ddr.png,png,Other/Uncategorized,,,23c9dd0113f0b1de
 f1862bec8abfcc5f,f1862bec8abfcc5f,4c28d018f77b6e83,Results/M2/optic_disc_cup/resized/4_ddr.png,png,Other/Uncategorized,,,23c9dd0113f0b1de
+f1d54115cabef262,f1d54115cabef262,a5f78d6e01e0e697,data_sep2022/00_KaiB/figures/example_msa_transformer_plots.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+702e3c20eeb257e6,702e3c20eeb257e6,a5f78d6e01e0e697,data_sep2022/00_KaiB/figures/kaib_pretty_landscape.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+6223d5a8d4bea42e,6223d5a8d4bea42e,a5f78d6e01e0e697,data_sep2022/00_KaiB/figures/kaib_state_3R_plddts.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+26783a7825603fba,26783a7825603fba,a5f78d6e01e0e697,data_sep2022/00_KaiB/figures/kaib_state_3R_plddts_violinplots.pdf,pdf,Box/Violin Plot,Violin Plot,violin,
+3fcc1977b43c3c07,3fcc1977b43c3c07,a5f78d6e01e0e697,data_sep2022/01_KaiB_eps_scan/example_tsne_plots.pdf,pdf,Dimensionality Reduction,t-SNE,tsne,
+6e38fc7b07f58fc5,6e38fc7b07f58fc5,a5f78d6e01e0e697,data_sep2022/01_KaiB_eps_scan/figures/dbscan_scanning.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+3449c18b7403e9bc,3449c18b7403e9bc,a5f78d6e01e0e697,data_sep2022/01_KaiB_eps_scan/figures/example_landscapes.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+c6885c8b922d0f8e,c6885c8b922d0f8e,a5f78d6e01e0e697,data_sep2022/01_KaiB_eps_scan/figures/example_tsne_plots.pdf,pdf,Dimensionality Reduction,t-SNE,tsne,
+b5b911568247da34,b5b911568247da34,a5f78d6e01e0e697,data_sep2022/01_KaiB_eps_scan/figures/fracs_each_state.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+504ecf7f7ef2b419,504ecf7f7ef2b419,a5f78d6e01e0e697,data_sep2022/01_KaiB_eps_scan/figures/plddt_distn.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+a2f18fd537dfd5dd,a2f18fd537dfd5dd,a5f78d6e01e0e697,data_sep2022/01_KaiB_eps_scan/figures/top10_models_per_state.pdf,pdf,Pathway/Diagram,,model,
+1ce0bf40adb8a9b1,1ce0bf40adb8a9b1,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/1LU4_contact_maps.pdf,pdf,Spatial/Map,Atlas/Map,map,
+186aa52a04328b9a,186aa52a04328b9a,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/1LU4_msa_size_landscape.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+01474330b748474c,01474330b748474c,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/1LU4_plddt_landscape.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+19108f72b2aa9388,19108f72b2aa9388,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/1LU4_plddt_landscape_3r.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+77dc44f8da3ec79c,77dc44f8da3ec79c,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/1LU4_state_3R_plddts_violinplots.pdf,pdf,Box/Violin Plot,Violin Plot,violin,
+fe70a69299880996,fe70a69299880996,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/1LU4_state_plddts.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+134ff1df67786e9d,134ff1df67786e9d,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/1LU4_state_plddts_violinplots.pdf,pdf,Box/Violin Plot,Violin Plot,violin,
+fe5af9afbded3ff3,fe5af9afbded3ff3,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/cluster_size_vs_pLDDT.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+ee78aacd012806bd,ee78aacd012806bd,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/cluster_size_vs_pLDDT_3R.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+d56c1559fbe415d2,d56c1559fbe415d2,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/cluster_size_vs_pLDDT_3R.png,png,Multi-Panel Composite,Figure Panel,figure,
+bb5acc44762d49b1,bb5acc44762d49b1,a5f78d6e01e0e697,data_sep2022/04_Thioredoxins/00_DsbE/figures/rmsd_vs_pLDDT.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+646fe368c49be2b8,646fe368c49be2b8,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/1LU4_contact_maps.pdf,pdf,Spatial/Map,Atlas/Map,map,
+4d938caadf7f3a79,4d938caadf7f3a79,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/1LU4_msa_size_landscape.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+e8da00936f26633f,e8da00936f26633f,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/1LU4_plddt_landscape.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+ed598c264c0148e3,ed598c264c0148e3,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/1LU4_plddt_landscape_3r.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+f092b822597baa04,f092b822597baa04,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/1LU4_state_3R_plddts_violinplots.pdf,pdf,Box/Violin Plot,Violin Plot,violin,
+897a1f8886bbc4d1,897a1f8886bbc4d1,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/1LU4_state_plddts.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+225412012cd9f682,225412012cd9f682,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/1LU4_state_plddts_violinplots.pdf,pdf,Box/Violin Plot,Violin Plot,violin,
+90981492ce8b150b,90981492ce8b150b,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/cluster_size_vs_pLDDT.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+e7f394335a71d1d7,e7f394335a71d1d7,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/cluster_size_vs_pLDDT_3R.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,
+06774eb62b848e97,06774eb62b848e97,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/cluster_size_vs_pLDDT_3R.png,png,Multi-Panel Composite,Figure Panel,figure,
+49aa35b78f51286a,49aa35b78f51286a,a5f78d6e01e0e697,data_sep2022/05_Thioredoxins/00_Mpt53/figures/rmsd_vs_pLDDT.pdf,pdf,Multi-Panel Composite,Figure Panel,figure,

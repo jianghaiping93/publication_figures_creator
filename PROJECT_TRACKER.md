@@ -59,9 +59,18 @@
 - 2026-03-19：使用 GitHub 全量压缩包恢复 AutoMorph 完整仓库，修复离线权重下载与多进程权限问题，CPU 跑通完整流程并生成 `Results/` 输出。
 - 2026-03-19：将 AutoMorph 输出文件追加进 `data/metadata/cns_repo_figure_files.csv` 并重建 `cns_figure_db.csv` 与 `cns_figure_type_summary.csv`。
 - 2026-03-19：重建 CNS 规范化表（`data/metadata/cns_tables/`）以包含 AutoMorph outputs。
+- 2026-03-19：完成剩余 CNS 仓库扫描（5 个），其中 1 个因网络超时失败；更新 `cns_repo_figure_index.csv` 与 `cns_repo_figure_index_success.csv`。
+- 2026-03-19：新增 CNS 仓库 figure 文件 15 条并重建 `cns_figure_db.csv`、`cns_figure_type_summary.csv` 与 `cns_tables/*`。
+- 2026-03-19：扩展图类型 taxonomy（新增 Treemap/Sunburst、Waffle/Isotype、Radar/Polar 与医学图像 L2），更新分类规则与文档。
+- 2026-03-19：再次运行 `scripts/apply_auto_fixes.py`，更新复现队列命令与失败标注。
+- 2026-03-19：AF_Cluster 使用 tarball 方式补扫（tar 清单模式），更新 `cns_repo_figure_index.csv`、`cns_repo_figure_files.csv` 并重建 `cns_figure_db.csv` 与 `cns_tables/*`。
+- 2026-03-19：新增多主题统一风格（classic/mono_ink/ocean/forest/solar），更新 Python/R/Matlab wrapper，并生成 `data/metadata/cns_tables/styled_outputs.csv`。
+- 2026-03-19：完成增量抓取（2025-12-19 至 2026-03-19）与 GitHub 候选生成（见 `data/metadata/incremental/2025-12-19_to_2026-03-19/`）。
+- 2026-03-19：运行复现回归脚本（当前无新增可执行项）。
 
 ## 重复问题与解决方案（Recurring Issues & Fixes）
-- 待记录。
+- GitHub 克隆偶发超时：对单仓库使用更长超时与单线程重试；若持续失败，标记为 `error` 并进入人工重试清单。
+- Crossref 增量抓取部分命令返回非零但仍生成输出：以输出文件存在与大小为准，必要时分步执行并重建 index 与候选。
 
 ## 决策与假设（Decisions & Assumptions）
 - 仅收集公开 GitHub 仓库。

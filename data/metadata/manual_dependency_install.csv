@@ -1,0 +1,11 @@
+repo_url,script_path,dependency,reason,log_path
+https://github.com/ZhuangLab/storm-control,storm_control/hal4000/qtWidgets/qtCameraGraphicsScene.py,storm_control,not_on_pypi_or_version_conflict,logs/repro_runs/run_00891_20260318_114616.log
+https://github.com/bbglab/deepCSA,bin/__plot_selectionfeatures.py,tabix,not_on_pypi_or_version_conflict,logs/repro_runs/run_00913_20260318_114618.log
+https://github.com/bbglab/normal_bladder_paper,extended/extended10/ExtendedFig10a_site_selection_manhattan.py,consensus_variables,not_on_pypi_or_version_conflict,logs/repro_runs/run_01050_20260318_114628.log
+https://github.com/bbglab/normal_bladder_paper,main/Fig1/plot_f1.py,consensus_variables,not_on_pypi_or_version_conflict,logs/repro_runs/run_01073_20260318_114628.log
+https://github.com/bbglab/normal_bladder_paper,main/Fig3/plot_f3.py,consensus_variables,not_on_pypi_or_version_conflict,logs/repro_runs/run_01079_20260318_140154.log
+https://github.com/bbglab/normal_bladder_paper,main/Fig5/Fig5f_plot_TERT_mutation_freqs.py,consensus_variables,not_on_pypi_or_version_conflict,logs/repro_runs/run_01086_20260318_114631.log
+https://github.com/int-brain-lab/iblapps,data_exploration_gui/plot.py,data_exploration_gui,not_on_pypi_or_version_conflict,logs/repro_runs/run_01457_20260318_140156.log
+https://github.com/int-brain-lab/iblapps,viewspikes/plots.py,neuropixel,not_on_pypi_or_version_conflict,logs/repro_runs/run_01461_20260318_141721.log
+https://github.com/lilab-bcb/pegasus,pegasus/commands/Plotting.py,skmisc,not_on_pypi_or_version_conflict,logs/repro_runs/run_01520_20260318_143031.log
+https://github.com/sagar87/genomicsurveillance,genomicsurveillance/plots/england.py,genomicsurveillance,not_on_pypi_or_version_conflict,logs/repro_runs/run_01992_20260318_114955.log

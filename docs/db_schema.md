@@ -50,6 +50,15 @@
 - `log_path`
 - `notes`
 
+### styled_outputs (optional)
+- `styled_output_id` (pk)
+- `script_id` (fk)
+- `repo_id` (fk)
+- `style_theme` (classic/mono_ink/ocean/forest/solar)
+- `style_wrapper` (python/r/matlab)
+- `run_command_styled`
+- `status` (planned/success/failed)
+
 ## Minimal Indexes
 - `papers(journal, year)`
 - `figures(figure_type_l1)`

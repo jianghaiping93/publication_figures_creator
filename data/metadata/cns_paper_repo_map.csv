@@ -1,0 +1,333 @@
+journal,title,doi,year,repo_urls
+Nature,Unexpected clustering pattern in dwarf galaxies challenges formation models,10.1038/s41586-025-08965-5,2025,https://github.com/ChenYangyao/dwarf_assembly_bias; https://github.com/JiangFangzhou/SIDM
+Nature,The rise and transformation of Bronze Age pastoralists in the Caucasus,10.1038/s41586-024-08113-5,2024,https://github.com/odelaneau/GLIMPSE
+Nature,Universal photonic artificial intelligence acceleration,10.1038/s41586-025-08854-x,2025,https://github.com/karpathy/nanoGPT
+Nature,Emerging evidence of abrupt changes in the Antarctic environment,10.1038/s41586-025-09349-5,2025,https://github.com/g2e/m_map
+Nature,Capturing dynamic phage–pathogen coevolution by clinical surveillance,10.1038/s41586-026-10136-z,2026,https://github.com/tseemann/snippy
+Nature,Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis,10.1038/s41586-023-05806-1,2023,https://github.com/kitzmanlab/mimips
+Nature,Computer-vision research powers surveillance technology,10.1038/s41586-025-08972-6,2025,https://github.com/wagnew3/Computer-Vision-Research-Powers-Surveillance-Technology
+Nature,An integrated transcriptomic cell atlas of human neural organoids,10.1038/s41586-024-08172-8,2024,https://github.com/YosefLab/scib-metrics
+Nature,A vaccine central in A(H5) influenza antigenic space confers broad immunity,10.1038/s41586-025-09626-3,2025,https://github.com/shwilks/r3js
+Nature,Conservation and alteration of mammalian striatal interneurons,10.1038/s41586-025-09592-w,2025,https://github.com/YosefLab/Hotspot; https://github.com/agshumate/Liftoff; https://github.com/mdeber/Corrigan2024
+Nature,Functional connectomics reveals general wiring rule in mouse visual cortex,10.1038/s41586-025-08840-3,2025,https://github.com/cajal/microns-funconn-2025; https://github.com/cajal/pipeline; https://github.com/seung-lab/neuroglancer
+Nature,Scaling and networking a modular photonic quantum computer,10.1038/s41586-024-08406-9,2025,https://github.com/XanaduAI/MrMustard
+Nature,Increased mutation and gene conversion within human segmental duplications,10.1038/s41586-023-05895-y,2023,https://github.com/pysam-developers/pysam
+Nature,Connectomics of predicted Sst transcriptomic types in mouse visual cortex,10.1038/s41586-025-08805-6,2025,https://github.com/CAVEconnectome/MeshParty; https://github.com/CAVEconnectome/pcg_skel; https://github.com/pandas-dev/pandas
+Nature,Solving olympiad geometry without human demonstrations,10.1038/s41586-023-06747-5,2024,https://github.com/google-research/meliad
+Nature,Flexible solar cells based on foldable silicon wafers with blunted edges,10.1038/s41586-023-05921-z,2023,https://github.com/zae-bayern/elpv-dataset
+Nature,Spectroscopic identification of water emission from a main-belt comet,10.1038/s41586-023-06152-y,2023,https://github.com/Small-Bodies-Node/ice-sublimation
+Nature,Spatiotemporally resolved colorectal oncogenesis in mini-colons ex vivo,10.1038/s41586-024-07330-2,2024,https://github.com/LorenzoLF/Mini-colon_bioengineering
+Nature,Neural landscape diffusion resolves conflicts between needs across time,10.1038/s41586-023-06715-z,2023,https://github.com/google/jax
+Nature,A genomic history of the North Pontic Region from the Neolithic to the Bronze Age,10.1038/s41586-024-08372-2,2025,https://github.com/ropensci/rnaturalearthdata
+Nature,Emergence of collective oscillations in massive human crowds,10.1038/s41586-024-08514-6,2025,https://github.com/ThomasWangWeiHong/Shadow-Detection-Algorithm-for-Aerial-and-Satellite-Images; https://github.com/ultralytics/ultralytics
+Nature,A brain-wide map of neural activity during complex behaviour,10.1038/s41586-025-09235-0,2025,https://github.com/SainsburyWellcomeCentre/BakingTray; https://github.com/SainsburyWellcomeCentre/StitchIt; https://github.com/SainsburyWellcomeCentre/lasagna; https://github.com/cortex-lab/alyx; https://github.com/int-brain-lab/ibl-sorter; https://github.com/int-brain-lab/iblapps; https://github.com/int-brain-lab/iblvideo; https://github.com/stevenjwest/brainregister
+Nature,Chemical capture of diazo metabolites reveals biosynthetic hydrazone oxidation,10.1038/s41586-025-10079-x,2026,https://github.com/g-e-kenney/prettyClusters
+Nature,Fanzor is a eukaryotic programmable RNA-guided endonuclease,10.1038/s41586-023-06356-2,2023,https://github.com/MakotoSaito37/PAM-screen
+Nature,A broadband thermal emission spectrum of the ultra-hot Jupiter WASP-18b,10.1038/s41586-023-06230-1,2023,https://github.com/afeinstein20/nirhiss; https://github.com/ideasrule/platon; https://github.com/nespinoza/transitspectroscopy; https://github.com/radicamc/supreme-spoon
+Nature,Unsupervised pretraining in biological neural networks,10.1038/s41586-025-09180-y,2025,https://github.com/MouseLand/zhong-et-al-2025
+Nature,Injectable ultrasonic sensor for wireless monitoring of intracranial signals,10.1038/s41586-024-07334-y,2024,https://github.com/Cyberpunk2207/Metagel-ultrasonic-sensing
+Nature,Vertical structure of an exoplanet’s atmospheric jet stream,10.1038/s41586-025-08664-1,2025,https://github.com/JohannesBuchner/PyMultiNest
+Nature,Learning high-accuracy error decoding for quantum processors,10.1038/s41586-024-08148-8,2024,https://github.com/deepmind/dm-haiku; https://github.com/jax-ml/jax
+Nature,Adaptation to photoperiod via dynamic neurotransmitter segregation,10.1038/s41586-024-07692-7,2024,https://github.com/rsenft1/Mouse-Wheel-Running-Analysis
+Nature,"Immune responses in checkpoint myocarditis across heart, blood and tumour",10.1038/s41586-024-08105-5,2024,https://github.com/villani-lab/myocarditis
+Nature,Thermal emission from the Earth-sized exoplanet TRAPPIST-1 b using JWST,10.1038/s41586-023-05951-7,2023,https://github.com/spacetelescope/crds; https://github.com/spacetelescope/jwst
+Nature,Spatial atlas of the mouse central nervous system at molecular resolution,10.1038/s41586-023-06569-5,2023,https://github.com/petersaj/AP_histology
+Nature,Global phenology maps reveal the drivers and effects of seasonal asynchrony,10.1038/s41586-025-09410-3,2025,https://github.com/bgreenwell/fastshap; https://github.com/rasterio/rasterio
+Nature,A long-period radio transient active for three decades,10.1038/s41586-023-06202-5,2023,https://github.com/ypmen/TransientX
+Nature,Whole-cortex in situ sequencing reveals input-dependent area identity,10.1038/s41586-024-07221-6,2024,https://github.com/gillislab/barseq_analysis; https://github.com/shekharlab/mouseVC
+Nature,Molecular gradients shape synaptic specificity of a visuomotor transformation,10.1038/s41586-025-09037-4,2025,https://github.com/rvlenth/emmeans
+Nature,Fair human-centric image dataset for ethical AI benchmarking,10.1038/s41586-025-09716-2,2025,https://github.com/SonyResearch/fairness-benchmark-public; https://github.com/timesler/facenet-pytorch; https://github.com/xinntao/facexlib
+Nature,Reply to: Amniote metabolism and the evolution of endothermy,10.1038/s41586-023-06412-x,2023,https://github.com/IrisMenendez/Dinosaur_metabolism
+Science,Ice sheet–free West Antarctica during peak early Oligocene glaciation,10.1126/science.adj3931,2024,https://github.com/pism/docs
+Science,Arctic sea ice retreat fuels boreal forest advance,10.1126/science.adh2339,2024,https://github.com/ctmaher/modendro; https://github.com/lme4/lme4
+Science,Learning skillful medium-range global weather forecasting,10.1126/science.adi2336,2023,https://github.com/deepmind/dm-haiku; https://github.com/deepmind/jraph; https://github.com/google/jax
+Science,Systematic discovery and engineering of synthetic immune receptors in plants,10.1126/science.adx2508,2025,https://github.com/MWSchmid/Ngou-et-al.-2025
+Science,Transforming achiral semiconductors into chiral domains with exceptional circular dichroism,10.1126/science.ado7201,2025,https://github.com/Molecolab-Pisa/exat
+Science,The genetic basis of a recent transition to live-bearing in marine snails,10.1126/science.adi2982,2024,https://github.com/gt1/biobambam2
+Science,Targeted protein evolution in the gut microbiome by diversity-generating retroelements,10.1126/science.adv2111,2025,https://github.com/moshi4/pyGenomeViz
+Science,Exogenous RNA surveillance by proton-sensing TRIM25,10.1126/science.ads4539,2025,https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273
+Science,Inspiraling streams of enriched gas observed around a massive galaxy 11 billion years ago,10.1126/science.abj9192,2023,https://github.com/Keck-DataReductionPipelines/KcwiDRP
+Science,Experimentally realized in situ backpropagation for deep learning in photonic neural networks,10.1126/science.ade8450,2023,https://github.com/deepmind/dm-haiku; https://github.com/fancompute/simphox; https://github.com/google/jax; https://github.com/solgaardlab/dphox; https://github.com/solgaardlab/phox
+Science,Restoring hippocampal glucose metabolism rescues cognition across Alzheimer’s disease pathologies,10.1126/science.abm6131,2024,https://github.com/FelixKrueger/TrimGalore
+Science,The genetic architecture of cell type–specific cis regulation in maize,10.1126/science.ads6601,2025,https://github.com/broadinstitute/picard
+Science,Asynchronous subunit transitions prime acetylcholine receptor activation,10.1126/science.adw1264,2026,https://github.com/markvanderloo/extremevalues
+Science,Kinetic organization of the genome revealed by ultraresolution multiscale live imaging,10.1126/science.adx2202,2025,https://github.com/ZhuangLab/storm-control
+Science,Antarctic krill vertical migrations modulate seasonal carbon export,10.1126/science.adq5564,2025,https://github.com/msmielak/moonlit
+Science,Brain activity of diving seals reveals short sleep cycles at depth,10.1126/science.adf0566,2023,https://github.com/jmkendallbar/VisualizingLifeintheDeep
+Science,Misinformation exploits outrage to spread online,10.1126/science.adl2829,2024,https://github.com/puppeteer/puppeteer
+Science,"Reductive samarium (electro)catalysis enabled by Sm
+            <sup>III</sup>
+            -alkoxide protonolysis",10.1126/science.adp5777,2024,https://github.com/petermattia/Cyclic-Voltammetry-Simulator
+Science,Linalool-triggered plant-soil feedback drives defense adaptation in dense maize plantings,10.1126/science.adv6675,2025,https://github.com/YongxinLiu/EasyAmplicon
+Science,Accurate computation of quantum excited states with neural networks,10.1126/science.adn0137,2024,https://github.com/microsoft/folx
+Science,Observation of universal Hall response in strongly interacting Fermions,10.1126/science.add1969,2023,https://github.com/tenpy/tenpy
+Science,Artificial intelligence and interspecific law,10.1126/science.adi8678,2023,https://github.com/features/copilot
+Science,Visible light–mediated aza Paternò–Büchi reaction of acyclic oximes and alkenes to azetidines,10.1126/science.adj6771,2024,https://github.com/digital-chemistry-laboratory/morfeus
+Science,Synergy between regulatory elements can render cohesin dispensable for distal enhancer function,10.1126/science.adt4221,2026,https://github.com/raivokolde/pheatmap
+Science,The contribution of historical processes to contemporary extinction risk in placental mammals,10.1126/science.abn5856,2023,https://github.com/lh3/psmc
+Science,"Neural inference at the frontier of energy, space, and time",10.1126/science.adh1174,2023,https://github.com/NVIDIA/DALI; https://github.com/WongKinYiu/PyTorch_YOLOv4; https://github.com/achaiah/pywick
+Science,Telomeric transposons are pervasive in linear bacterial genomes,10.1126/science.adp1973,2025,https://github.com/moshi4/pyGenomeViz
+Science,A Neptune-mass exoplanet in close orbit around a very low-mass star challenges formation models,10.1126/science.abo0233,2023,https://github.com/grzeimann/Panacea
+Science,"Autonomous, multiproperty-driven molecular discovery: From predictions to measurements and back",10.1126/science.adi1407,2023,https://github.com/chemprop/chemprop; https://github.com/rsc-ontologies/rxno
+Science,Global selection on insect antipredator coloration,10.1126/science.adr7368,2025,https://github.com/vegandevs/vegan
+Science,A deep-time landscape of plant cis-regulatory sequence evolution,10.1126/science.adt8983,2026,https://github.com/broadinstitute/picard
+Science,The genetic architecture and evolution of the human skeletal form,10.1126/science.adf8009,2023,https://github.com/Nealelab/UK_Biobank_GWAS
+Science,Sequence modeling and design from molecular to genome scale with Evo,10.1126/science.ado9336,2024,https://github.com/togethercomputer/stripedhyena; https://github.com/tseemann/barrnap
+Science,Genomic approaches to accelerate American chestnut restoration,10.1126/science.adw3225,2026,https://github.com/jtlovell/qtlTools
+Science,Enhancer-driven cell type comparison reveals similarities between the mammalian and bird pallium,10.1126/science.adp3957,2025,https://github.com/jmschrei/tfmodisco-lite
+Science,Protein codes promote selective subcellular compartmentalization,10.1126/science.adq2634,2025,https://github.com/amckenna41/protPy
+Science,The dispersal of domestic cats from North Africa to Europe around 2000 years ago,10.1126/science.adt2642,2025,https://github.com/apeltzer/DeDup; https://github.com/edgardomortiz/vcf2phylip
+Science,Most bacterial gene families are biased toward specific chromosomal positions,10.1126/science.adm9928,2025,https://github.com/StoreyLab/qvalue
+Science,Three-dimensional genome rewiring in loci with human accelerated regions,10.1126/science.abm1696,2023,https://github.com/open2c/open2c_examples; https://github.com/open2c/pairtools
+Science,Mechanism for feature learning in neural networks and backpropagation-free machine learning models,10.1126/science.adi5639,2024,https://github.com/karpathy/nanoGPT; https://github.com/nikhilbarhate99/Char-RNN-PyTorch
+Science,Giant polyketide synthase enzymes in the biosynthesis of giant marine polyether toxins,10.1126/science.ado3290,2024,https://github.com/nanoporetech/medaka; https://github.com/rrwick/Filtlong
+Science,The evolution of white-tailed jackrabbit camouflage in response to past and future seasonal climates,10.1126/science.ade3984,2023,https://github.com/lh3/bwa
+Science,Lessons from sleep in the deep,10.1126/science.adl4885,2023,https://github.com/jmkendallbar/VisualizingLifeintheDeep
+Science,A luminous fast radio burst that probes the Universe at redshift 1,10.1126/science.adf2678,2023,https://github.com/CIERA-Transients/POTPyRI
+Science,Catalytic asymmetric fragmentation of cyclopropanes,10.1126/science.adp9061,2024,https://github.com/Kimichi-Suzuki/GRRM-OnioM
+Science,Pre-European contact leprosy in the Americas and its current persistence,10.1126/science.adu7144,2025,https://github.com/DanwangJessica/GRSR; https://github.com/moshi4/pyGenomeViz; https://github.com/nanoporetech/medaka
+Science,Effect of climate warming on the timing of autumn leaf senescence reverses after the summer solstice,10.1126/science.adf5098,2023,https://github.com/hohenstein/remef
+Science,Emergence and interstate spread of highly pathogenic avian influenza A(H5N1) in dairy cattle in the United States,10.1126/science.adq0900,2025,https://github.com/USDA-VS/GenoFLU
+Science,A small polymerase ribozyme that can synthesize itself and its complementary strand,10.1126/science.adt2760,2026,https://github.com/bbushnell/BBTools
+Science,Did the illicit fentanyl trade experience a supply shock?,10.1126/science.aea6130,2026,https://github.com/brycepardo/Fentanyl
+Science,Drivers of epidemic dynamics in real time from daily digital COVID-19 measurements,10.1126/science.adm8103,2024,https://github.com/BDI-pathogens/LocalCovidTracker; https://github.com/DyfanJones/RAthena; https://github.com/MichelleKendall/UK_recent_R_estimate; https://github.com/epiforecasts/covid-rt-estimates; https://github.com/sagar87/genomicsurveillance; https://github.com/ukhsa-collaboration/drivers_epidemic_dynamics_from_nhs_covid19_app.10.5281
+Science,Climate change will increase forest disturbances in Europe throughout the 21st century,10.1126/science.adx6329,2026,https://github.com/fchollet/keras
+Cell,The MicrobeAtlas database: Global trends and insights into Earth’s microbial ecosystems,10.1016/j.cell.2026.01.021,2026,https://github.com/JuliaPy/PyCall.jl; https://github.com/JuliaStats/Clustering.jl; https://github.com/JuliaStats/Distances.jl; https://github.com/JuliaStats/HypothesisTests.jl; https://github.com/ncbi/sra-tools; https://github.com/queryverse/VegaLite.jl; https://github.com/tseemann/barrnap
+Cell,The fork protection complex promotes parental histone recycling and epigenetic memory,10.1016/j.cell.2024.07.017,2024,https://github.com/google-deepmind/alphafold
+Cell,Modeling human embryo implantation in vitro,10.1016/j.cell.2025.10.027,2026,https://github.com/nowthis/sankeymatic
+Cell,Inheritance of acquired adaptive cold tolerance in rice through DNA methylation,10.1016/j.cell.2025.04.036,2025,https://github.com/raivokolde/pheatmap
+Cell,Resolving the three-dimensional interactome of human accelerated regions during human and chimpanzee neurodevelopment,10.1016/j.cell.2025.01.007,2025,https://github.com/broadinstitute/picard
+Cell,Extracellular matrix sensing regulates intratumoral heterogeneity of autophagic flux,10.1016/j.cell.2025.12.053,2026,https://github.com/broadinstitute/inferCNV
+Cell,Trichophyton concentricum fungal infections and skin microbiomes of Indigenous Peninsular Malaysians,10.1016/j.cell.2025.05.034,2025,https://github.com/jamiemcg/BUSCO_phylogenomics; https://github.com/vmikk/metagMisc
+Cell,A non-catalytic role for RFC in PCNA-mediated processive DNA synthesis,10.1016/j.cell.2025.12.029,2026,https://github.com/lumicks/harbor
+Cell,Serotonin transporter inhibits antitumor immunity through regulating the intratumoral serotonin axis,10.1016/j.cell.2025.04.032,2025,https://github.com/ncborcherding/utility
+Cell,Planetary microbiome structure and generalist-driven gene flow across disparate habitats,10.1016/j.cell.2025.12.051,2026,https://github.com/donovan-h-parks/PhyloRank; https://github.com/tseemann/abricate; https://github.com/vegandevs/vegan
+Cell,Reference genome choice compromises population genetic analyses,10.1016/j.cell.2025.08.034,2025,https://github.com/AndreaGuarracino/paf2chain
+Cell,Molecular basis of proton sensing by G protein-coupled receptors,10.1016/j.cell.2024.11.036,2025,https://github.com/nanxstats/ggsci; https://github.com/thomasp85/patchwork
+Cell,Crop root bacterial and viral genomes reveal unexplored species and microbiome patterns,10.1016/j.cell.2025.02.013,2025,https://github.com/lselzer/multcompview; https://github.com/thomasp85/patchwork; https://github.com/vegandevs/vegan
+Cell,"Integration of 168,000 samples reveals global patterns of the human gut microbiome",10.1016/j.cell.2024.12.017,2025,https://github.com/ncbi/sra-tools
+Cell,Nutrient competition predicts gut microbiome restructuring under drug perturbations,10.1016/j.cell.2025.10.038,2025,https://github.com/tseemann/snippy
+Cell,Human interpretable grammar encodes multicellular systems biology models to democratize virtual cell laboratories,10.1016/j.cell.2025.06.048,2025,https://github.com/emcramer/abm-spheroid-invasiveness; https://github.com/heberlr/UQ_PhysiCell
+Cell,A single-nucleus transcriptomic atlas of the adult Aedes aegypti mosquito,10.1016/j.cell.2025.10.008,2025,https://github.com/NBISweden/AGAT
+Cell,Genomic surveillance as a scalable framework for precision phage therapy against antibiotic-resistant pathogens,10.1016/j.cell.2024.09.009,2024,https://github.com/tseemann/mlst
+Cell,Coalescing single-cell genomes and transcriptomes to decode breast cancer progression,10.1016/j.cell.2025.08.012,2025,https://github.com/broadinstitute/inferCNV
+Cell,Digital phenotyping from wearables using AI characterizes psychiatric disorders and identifies genetic associations,10.1016/j.cell.2024.11.012,2025,https://github.com/timeseriesAI/tsai
+Cell,Open-ST: High-resolution spatial transcriptomics in 3D,10.1016/j.cell.2024.05.055,2024,https://github.com/broadinstitute/Drop-seq
+Cell,Evolutionary transcriptomics unveils rapid changes of gene expression patterns in flowering plants,10.1016/j.cell.2025.12.015,2026,https://github.com/HenrikBengtsson/matrixStats
+Nature,Magnon spectroscopy in the electron microscope,10.1038/s41586-025-09318-y,2025,https://github.com/UppASD/UppASD
+Nature,Predicting crystal form stability under real-world conditions,10.1038/s41586-023-06587-3,2023,https://github.com/spglib/spglib
+Nature,RNA conformational propensities determine cellular activity,10.1038/s41586-023-06080-x,2023,https://github.com/alhashimilab/TAR_Thermodynamic_Model
+Nature,A foundation model for continuous glucose monitoring data,10.1038/s41586-025-09925-9,2026,https://github.com/Guylu/GluFormer
+Nature,Sub-second volumetric 3D printing by synthesis of holographic light fields,10.1038/s41586-026-10114-5,2026,https://github.com/sugar10w/DISH
+Nature,Lineage-resolved atlas of the developing human cortex,10.1038/s41586-025-09033-8,2025,https://github.com/mattgkeefe/sticr_paper_code
+Nature,Common occurrences of subsurface heatwaves and cold spells in ocean eddies,10.1038/s41586-024-08051-2,2024,https://github.com/ZijieZhaoMMHW/m_mhw1.0
+Nature,Retrotransposons hijack alt-EJ for DNA replication and eccDNA biogenesis,10.1038/s41586-023-06327-7,2023,https://github.com/ZhaoZhangZZlab/eccDNA_formation_2021
+Nature,Ultra-fast deep-learned CNS tumour classification during surgery,10.1038/s41586-023-06615-2,2023,https://github.com/marcpaga/sturgeon; https://github.com/marcpaga/sturgeon_dev; https://github.com/nanopore-wgs-consortium/NA12878; https://github.com/nanoporetech/qcat
+Nature,Regulated somatic hypermutation enhances antibody affinity maturation,10.1038/s41586-025-08728-2,2025,https://github.com/matsengrp/gctree; https://github.com/stratust/igpipeline
+Nature,Preserved neural dynamics across animals performing similar behaviour,10.1038/s41586-023-06714-0,2023,https://github.com/BeNeuroLab/2022-preserved-dynamics; https://github.com/MouseLand/Kilosort; https://github.com/billkarsh/SpikeGLX; https://github.com/cortex-lab/phy; https://github.com/janelia-pypi/mouse_joystick_interface_python
+Nature,Self-organized tissue mechanics underlie embryonic regulation,10.1038/s41586-024-07934-8,2024,https://github.com/achamolly/mechanical_self_organisation
+Nature,Multimodal decoding of human liver regeneration,10.1038/s41586-024-07376-2,2024,https://github.com/HendersonLab/LiverRegenerationAtlas
+Nature,Sex and smoking bias in the selection of somatic mutations in human bladder,10.1038/s41586-025-09521-x,2025,https://github.com/AlexandrovLab/SigProfilerExtractor; https://github.com/AstraZeneca-NGS/VarDictJava; https://github.com/McGranahanLab/HDP_sigExtraction; https://github.com/bbglab/deepCSA; https://github.com/bbglab/deepUMIcaller; https://github.com/bbglab/intogen-plus; https://github.com/bbglab/normal_bladder_paper; https://github.com/bbglab/omega; https://github.com/fulcrumgenomics/fgbio; https://github.com/nicolaroberts/hdp; https://github.com/realbigws/PDB_Tool
+Nature,Thermal infrared directs host-seeking behaviour in Aedes aegypti mosquitoes,10.1038/s41586-024-07848-5,2024,https://github.com/Craig-Montell-Lab/Chandel_DeBeaubien_2023
+Nature,A foundation model of transcription across human cell types,10.1038/s41586-024-08391-z,2025,https://github.com/EngreitzLab/CRISPR_comparison; https://github.com/YichaoOU/ABE_NonCoding_functional_score; https://github.com/fuxialexander/proscope
+Nature,Tissue-resident memory CD8 T cell diversity is spatiotemporally imprinted,10.1038/s41586-024-08466-x,2025,https://github.com/wkentaro/labelme
+Nature,"The genomic landscape of 2,023 colorectal cancers",10.1038/s41586-024-07747-9,2024,https://github.com/kircherlab/CADD-scripts; https://github.com/sheenamt/msings
+Nature,Sequence diversity lost in early pregnancy,10.1038/s41586-025-09031-w,2025,https://github.com/DecodeGenetics/graphtyper; https://github.com/DecodeGenetics/svimmer; https://github.com/Illumina/manta; https://github.com/Nik-Zainal-Group/signature.tools.lib; https://github.com/broadinstitute/picard; https://github.com/lh3/bwa
+Nature,Brainstem Dbh+ neurons control allergen-induced airway hyperreactivity,10.1038/s41586-024-07608-5,2024,https://github.com/lazappi/clustree
+Nature,"Genetic links between ovarian ageing, cancer risk and de novo mutation rates",10.1038/s41586-024-07931-x,2024,https://github.com/hadley/reshape; https://github.com/rgcgithub/regenie
+Nature,Estimation and mapping of the missing heritability of human phenotypes,10.1038/s41586-025-09720-6,2025,https://github.com/loic-yengo/REML-with-sparse-relationship-matrices; https://github.com/tianwu1117/EStrans
+Nature,Haematological setpoints are a stable and patient-specific deep phenotype,10.1038/s41586-024-08264-5,2024,https://github.com/BrodyFoy/setpoint_calculation
+Nature,Molecular mechanism of ultrafast transport by plasma membrane Ca2+-ATPases,10.1038/s41586-025-09402-3,2025,https://github.com/schaefer-jh/motionviz
+Nature,Mitotic clustering of pulverized chromosomes from micronuclei,10.1038/s41586-023-05974-0,2023,https://github.com/hartwigmedical/hmftools; https://github.com/parklab/ShatterSeek
+Nature,Descending networks transform command signals into population motor control,10.1038/s41586-024-07523-9,2024,https://github.com/NeLy-EPFL/dn_networks; https://github.com/NeLy-EPFL/twoppp
+Nature,Marine heatwaves are not a dominant driver of change in demersal fishes,10.1038/s41586-023-06449-y,2023,https://github.com/afredston/marine_heatwaves_trawl
+Nature,Hippocampal representation during collective spatial behaviour in bats,10.1038/s41586-023-06478-7,2023,https://github.com/gardner-lab/FinchScope; https://github.com/gardner-lab/video-capture
+Nature,An ON-type direction-selective ganglion cell in primate retina,10.1038/s41586-023-06659-4,2023,https://github.com/Llamero/Four_Channel_MHz_LED_Driver; https://github.com/Llamero/Puthussery_Lab_2P_Setup; https://github.com/sje30/sjedrp
+Nature,Light-microscopy-based connectomic reconstruction of mammalian brain tissue,10.1038/s41586-025-08985-1,2025,https://github.com/Yujie-S/Click-ExM_data_process_and_example; https://github.com/danzllab/LICONN; https://github.com/funkelab/gunpowder; https://github.com/google-research/sofima; https://github.com/google/ffn; https://github.com/google/neuroglancer; https://github.com/seung-lab/kimimaro
+Nature,Genomic–transcriptomic evolution in lung cancer and metastasis,10.1038/s41586-023-05706-4,2023,https://github.com/nicolaroberts/hdp; https://github.com/nugentechnologies/nudup
+Nature,Neural networks of the mouse visceromotor cortex,10.1038/s41586-025-09360-w,2025,https://github.com/GradinaruLab/striatum2P; https://github.com/denisecailab/minian; https://github.com/etterguillaume/MiniscopeAnalysis; https://github.com/flatironinstitute/NoRMCorre; https://github.com/ucla-brain/mpf
+Nature,Pre-assembly of biomolecular condensate seeds drives RSV replication,10.1038/s41586-025-10071-5,2026,https://github.com/TanenbaumLab/SingleObjectGrid; https://github.com/UU-cellbiology/ComDet
+Nature,Sensory expectations shape neural population dynamics in motor circuits,10.1038/s41586-025-09690-9,2025,https://github.com/JonathanAMichaels/PixelProcessingPipeline
+Nature,An atlas of genetic scores to predict multi-omic traits,10.1038/s41586-023-05844-9,2023,https://github.com/xuyu-cam/atlas_genetic_scores_omic_traits
+Nature,Liver X receptor unlinks intestinal regeneration and tumorigenesis,10.1038/s41586-024-08247-6,2024,https://github.com/Ajaxels/MIB
+Nature,Spatial dynamics of brain development and neuroinflammation,10.1038/s41586-025-09663-y,2025,https://github.com/di-0579/spatial_tri-omics
+Nature,MAPK-driven epithelial cell plasticity drives colorectal cancer therapeutic resistance,10.1038/s41586-025-09916-w,2025,https://github.com/dcjones/proseg
+Nature,De novo design of protein structure and function with RFdiffusion,10.1038/s41586-023-06415-8,2023,https://github.com/RosettaCommons/RFdiffusion
+Nature,The global human impact on biodiversity,10.1038/s41586-025-08752-2,2025,https://github.com/fkeck/metabeta
+Nature,Spike deep mutational scanning helps predict success of SARS-CoV-2 clades,10.1038/s41586-024-07636-1,2024,https://github.com/neherlab/SARS-CoV-2_variant-reports
+Nature,Flexible perceptual encoding by discrete gamma events,10.1038/s41586-025-09604-9,2025,https://github.com/cardin-higley-lab/CBASS; https://github.com/cortex-lab/phy
+Nature,AIRE relies on Z-DNA to flag gene targets for thymic T cell tolerization,10.1038/s41586-024-07169-7,2024,https://github.com/dmichelson/mimetic_cells
+Nature,Consistent patterns of common species across tropical tree communities,10.1038/s41586-023-06820-z,2024,https://github.com/declancooper/CommonSpecies2022
+Nature,Multimodal cell maps as a foundation for structural and functional genomics,10.1038/s41586-025-08878-3,2025,https://github.com/YoshitakaMo/localcolabfold; https://github.com/eliorc/node2vec; https://github.com/fanzheng10/HiDeF; https://github.com/fanzheng10/HiSig; https://github.com/fosterlab/PrInCE; https://github.com/idekerlab/cellmaps_pipeline
+Nature,Integrator dynamics in the cortico-basal ganglia loop for flexible motor timing,10.1038/s41586-025-09778-2,2025,https://github.com/JaneliaSciComp/JRCLUST; https://github.com/inagaki-lab/Yang_et_al_2024
+Nature,Long-molecule scars of backup DNA repair in BRCA1- and BRCA2-deficient cancers,10.1038/s41586-023-06461-2,2023,https://github.com/kevinmhadi/khtools; https://github.com/lh3/CHM-eval; https://github.com/mskilab-org/GxG; https://github.com/mskilab-org/JaBbA; https://github.com/mskilab-org/fragCounter; https://github.com/mskilab-org/gGnome; https://github.com/mskilab-org/gTrack; https://github.com/mskilab-org/jabba; https://github.com/mskilab-org/skitools; https://github.com/mskilab/setton_hadi_choo_2023; https://github.com/vibansal/HapCUT2
+Nature,A cryptic role for reciprocal helping in a cooperatively breeding bird,10.1038/s41586-025-08958-4,2025,https://github.com/AlexisDEarl/reciprocity_and_nepotism_in_superb_starlings
+Nature,Structural basis of sensory receptor evolution in octopus,10.1038/s41586-023-05822-1,2023,https://github.com/schrodinger/pymol-open-source
+Nature,Multi-timescale reinforcement learning in the brain,10.1038/s41586-025-08929-9,2025,https://github.com/pablotano8/multi_timescale_RL
+Nature,Leveraging a phased pangenome for haplotype design of hybrid potato,10.1038/s41586-024-08476-9,2025,https://github.com/Chenglin20170390/Haplotype-diversity; https://github.com/Gaius-Augustus/Augustus; https://github.com/PacificBiosciences/ccs; https://github.com/chhylp123/hifiasm; https://github.com/lh3/srf; https://github.com/marbl/meryl; https://github.com/mrvollger/SafFire; https://github.com/nanjiangshu/my_needle; https://github.com/sanger-pathogens/assembly-stats; https://github.com/tangerzhang/calc_switchErr
+Nature,Heritable polygenic editing: the next frontier in genomic medicine?,10.1038/s41586-024-08300-4,2025,https://github.com/loic-yengo/Code_for_GeneEditing_Paper_Visscher_et_al_2024
+Nature,WNT signalling control by KDM5C during development affects cognition,10.1038/s41586-024-07067-y,2024,https://github.com/Boyle-Lab/Blacklist
+Nature,Sympathetic neuropeptide Y protects from obesity by sustaining thermogenic fat,10.1038/s41586-024-07863-6,2024,https://github.com/PLAVRVSO/scRNA-Seq-analysis-of-BAT-SVF
+Nature,Tumour immune rejection triggered by activation of α2-adrenergic receptors,10.1038/s41586-023-06110-8,2023,https://github.com/BVDElab/Tumour_immune_rejection
+Nature,Molecular architecture of coronavirus double-membrane vesicle pore complex,10.1038/s41586-024-07817-y,2024,https://github.com/ffyr2w/cet_toolbox
+Nature,Reprogramming neuroblastoma by diet-enhanced polyamine depletion,10.1038/s41586-025-09564-0,2025,https://github.com/ElucidataInc/ElMaven; https://github.com/XiaoyangSu/AccuCor
+Nature,Understanding the neural code of stress to control anhedonia,10.1038/s41586-024-08241-y,2024,https://github.com/cortex-lab/allenCCF; https://github.com/lindermanlab/ssm
+Nature,Lense–Thirring precessing magnetar engine drives a superluminous supernova,10.1038/s41586-026-10151-0,2026,https://github.com/jrfarah/24afav_analysis
+Nature,Accurate predictions of disordered protein ensembles with STARLING,10.1038/s41586-026-10141-2,2026,https://github.com/soedinglab/MMseqs2
+Nature,Old carbon routed from land to the atmosphere by global river systems,10.1038/s41586-025-09023-w,2025,https://github.com/jfdean1/GlobRiv14C-GHG
+Nature,ZAK activation at the collided ribosome,10.1038/s41586-025-09772-8,2025,https://github.com/FelixKrueger/TrimGalore; https://github.com/jakesaba/2025_ZAK
+Nature,Myeloid progenitor dysregulation fuels immunosuppressive macrophages in tumours,10.1038/s41586-025-09493-y,2025,https://github.com/Merad-Lab/Hegde_Myelopoiesis_Epigenetics
+Nature,Optimality guarantees for crystal structure prediction,10.1038/s41586-023-06071-y,2023,https://github.com/lrcfmd/ipcsp
+Nature,Myeloperoxidase transforms chromatin into neutrophil extracellular traps,10.1038/s41586-025-09523-9,2025,https://github.com/ngimber/NanoNET
+Nature,Self-patterning of human stem cells into post-implantation lineages,10.1038/s41586-023-06354-4,2023,https://github.com/Smith-Lab-YSCC/hExtra_embryoid
+Nature,A holistic platform for accelerating sorbent-based carbon capture,10.1038/s41586-024-07683-8,2024,https://github.com/ElMouba/PrISMa_VisTool; https://github.com/kjappelbaum/prisma-adosorbaphore
+Nature,On the genetic basis of tail-loss evolution in humans and apes,10.1038/s41586-024-07095-8,2024,https://github.com/boxialaboratory/Tail-Loss-Primates
+Nature,Formation of memory assemblies through the DNA-sensing TLR9 pathway,10.1038/s41586-024-07220-7,2024,https://github.com/RadulovicLab/Nature-2024
+Nature,Polyclonal origins of human premalignant colorectal lesions,10.1038/s41586-025-09930-y,2025,https://github.com/cancersysbio/HTAN-FAP
+Nature,Conserved and divergent gene regulatory programs of the mammalian neocortex,10.1038/s41586-023-06819-6,2023,https://github.com/bulik/ldsc; https://github.com/ejarmand/comparative_epigenomic_motor_cortex
+Nature,Transient hepatic reconstitution of trophic factors enhances aged immunity,10.1038/s41586-025-09873-4,2025,https://github.com/immunoliugy/aging_mouse_thymus; https://github.com/wanglab-broad/hepatic_recon
+Nature,Transitions in dynamical regime and neural mode during perceptual decisions,10.1038/s41586-025-09528-4,2025,https://github.com/Brody-Lab/decision_dynamics_commitment; https://github.com/Brody-Lab/fhmddm; https://github.com/Brody-Lab/findr; https://github.com/Brody-Lab/tzl_spglm
+Nature,A metagenomic ‘dark matter’ enzyme catalyses oxidative cellulose conversion,10.1038/s41586-024-08553-z,2025,https://github.com/colombarifm/celoce_epr
+Nature,High-resolution genomic history of early medieval Europe,10.1038/s41586-024-08275-2,2025,https://github.com/leospeidel/twigstats; https://github.com/leospeidel/twigstats_paper
+Nature,Prolonged persistence of mutagenic DNA lesions in somatic cells,10.1038/s41586-024-08423-8,2025,https://github.com/mspencerchapman/Prolonged_persistence_of_DNA_lesions; https://github.com/nicolaroberts/hdp
+Nature,Revealing uncertainty in the status of biodiversity change,10.1038/s41586-024-07236-z,2024,https://github.com/apache/arrow
+Nature,A warm Neptune’s methane reveals core mass and vigorous atmospheric mixing,10.1038/s41586-024-07395-z,2024,https://github.com/AtmoLib/chemcat; https://github.com/spacetelescope/crds; https://github.com/spacetelescope/jwst
+Nature,A pathology foundation model for cancer diagnosis and prognosis prediction,10.1038/s41586-024-07894-z,2024,https://github.com/CSU-BME/pathology_SSL; https://github.com/hms-dbmi/CHIEF; https://github.com/michalkoziarski/DiagSet
+Nature,A vaccine central in A(H5) influenza antigenic space confers broad immunity,10.1038/s41586-025-09626-3,2025,https://github.com/shwilks/r3js
+Nature,Imaging tunable Luttinger liquid systems in van der Waals heterostructures,10.1038/s41586-024-07596-6,2024,https://github.com/HongyuanLiCMP/Imaging-Tunable-Luttinger-Liquid-Systems-in-van-der-Waals-Heterostructures
+Nature,Functional connectomics reveals general wiring rule in mouse visual cortex,10.1038/s41586-025-08840-3,2025,https://github.com/cajal/microns-funconn-2025; https://github.com/cajal/pipeline; https://github.com/seung-lab/neuroglancer
+Nature,Genetic drivers and cellular selection of female mosaic X chromosome loss,10.1038/s41586-024-07533-7,2024,https://github.com/covid19-hg/META_ANALYSIS; https://github.com/dsgelab/Mosaic-loss-of-chromosome-X; https://github.com/freeseek/mochawdl
+Nature,Robust chemical analysis with graphene chemosensors and machine learning,10.1038/s41586-024-08003-w,2024,https://github.com/Andrew-Pannone/Chemosensing
+Nature,A foundation model for generalizable disease detection from retinal images,10.1038/s41586-023-06555-x,2023,https://github.com/hila-chefer/Transformer-Explainability; https://github.com/rmaphoh/AutoMorph; https://github.com/rmaphoh/RETFound_MAE; https://github.com/uw-biomedical-ml/RETFound_MAE
+Nature,Scaling and networking a modular photonic quantum computer,10.1038/s41586-024-08406-9,2025,https://github.com/XanaduAI/MrMustard
+Nature,Single-cell DNA methylome and 3D multi-omic atlas of the adult mouse brain,10.1038/s41586-023-06805-y,2023,https://github.com/lhqing/wmb2023; https://github.com/zhoujt1994/scHiCluster
+Nature,Physiological temperature drives TRPM4 ligand recognition and gating,10.1038/s41586-024-07436-7,2024,https://github.com/JackZhang-Lab/Gautmatch
+Nature,Ancestry and somatic profile indicate acral melanoma origin and prognosis,10.1038/s41586-025-09967-z,2026,https://github.com/CGBio-Lab/Mex-acral-exomes-transcriptomes
+Nature,Increased mutation and gene conversion within human segmental duplications,10.1038/s41586-023-05895-y,2023,https://github.com/pysam-developers/pysam
+Nature,Dissecting human population variation in single-cell responses to SARS-CoV-2,10.1038/s41586-023-06422-9,2023,https://github.com/browning-lab/sprime; https://github.com/h-e-g/popCell_SARS-CoV-2
+Nature,Magnetospheric origin of a fast radio burst constrained using scintillation,10.1038/s41586-024-08297-w,2025,https://github.com/KenzieNimmo/FRB20221022A_scintillation
+Nature,Connectomics of predicted Sst transcriptomic types in mouse visual cortex,10.1038/s41586-025-08805-6,2025,https://github.com/CAVEconnectome/MeshParty; https://github.com/CAVEconnectome/pcg_skel; https://github.com/pandas-dev/pandas
+Nature,Closed-loop vagus nerve stimulation aids recovery from spinal cord injury,10.1038/s41586-025-09028-5,2025,https://github.com/davepruitt/RePlay
+Nature,Preferential occurrence of fast radio bursts in massive star-forming galaxies,10.1038/s41586-024-08074-9,2024,https://github.com/krittisharma/frb_host_sharma2024
+Nature,The contribution of wildfire to PM2.5 trends in the USA,10.1038/s41586-023-06522-6,2023,https://github.com/echolab-stanford/wildfire-influence
+Nature,Solving olympiad geometry without human demonstrations,10.1038/s41586-023-06747-5,2024,https://github.com/google-research/meliad
+Nature,Detecting structural heart disease from electrocardiograms using AI,10.1038/s41586-025-09227-0,2025,https://github.com/PierreElias/IntroECG
+Nature,High-threshold and low-overhead fault-tolerant quantum memory,10.1038/s41586-024-07107-7,2024,https://github.com/sbravyi/BivariateBicycleCodes
+Nature,Unexpected clustering pattern in dwarf galaxies challenges formation models,10.1038/s41586-025-08965-5,2025,https://github.com/ChenYangyao/dwarf_assembly_bias; https://github.com/JiangFangzhou/SIDM
+Nature,Random heteropolymers as enzyme mimics,10.1038/s41586-025-09860-9,2025,https://github.com/Shunili/AE-RHP; https://github.com/TingXuGroup/Surface-Anaysis; https://github.com/ivanjayapurna/RHPapp
+Nature,Near-field photon entanglement in total angular momentum,10.1038/s41586-025-08761-1,2025,https://github.com/yigali/near-field-ent-tam
+Nature,Dual neuromodulatory dynamics underlie birdsong learning,10.1038/s41586-025-08694-9,2025,https://github.com/SamuelBrudner/juvenile_syllable_analysis; https://github.com/denisecailab/ezTrack; https://github.com/pearsonlab/autoencoded-vocal-analysis
+Nature,The rise and transformation of Bronze Age pastoralists in the Caucasus,10.1038/s41586-024-08113-5,2024,https://github.com/odelaneau/GLIMPSE
+Nature,Kinetic features dictate sensorimotor alignment in the superior colliculus,10.1038/s41586-024-07619-2,2024,https://github.com/AlexEMG/DeepLabCut; https://github.com/AnaG-R/Visuomotor-model-SC
+Nature,Monoclonal antibodies protect against pandrug-resistant Klebsiella pneumoniae,10.1038/s41586-025-09391-3,2025,https://github.com/dasch-lab/K_pneumoniae-anti_capsule_mabs
+Nature,High-resolution in situ structures of mammalian respiratory supercomplexes,10.1038/s41586-024-07488-9,2024,https://github.com/builab/subtomo2Chimera
+Nature,A multimodal robotic platform for multi-element electrocatalyst discovery,10.1038/s41586-025-09640-5,2025,https://github.com/zhang21mit/CRESt
+Nature,Universal photonic artificial intelligence acceleration,10.1038/s41586-025-08854-x,2025,https://github.com/karpathy/nanoGPT
+Nature,Capturing dynamic phage–pathogen coevolution by clinical surveillance,10.1038/s41586-026-10136-z,2026,https://github.com/tseemann/snippy
+Nature,Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis,10.1038/s41586-023-05806-1,2023,https://github.com/kitzmanlab/mimips
+Nature,GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling,10.1038/s41586-025-10052-8,2026,https://github.com/FlynnLab/jonperr; https://github.com/y9c/m6A-SACseq
+Nature,RETRACTED ARTICLE: Antibodies against endogenous retroviruses promote lung cancer immunotherapy,10.1038/s41586-023-05771-9,2023,https://github.com/liulab-dfci/TRUST4
+Nature,Emerging evidence of abrupt changes in the Antarctic environment,10.1038/s41586-025-09349-5,2025,https://github.com/g2e/m_map
+Nature,Computer-vision research powers surveillance technology,10.1038/s41586-025-08972-6,2025,https://github.com/wagnew3/Computer-Vision-Research-Powers-Surveillance-Technology
+Nature,An integrated transcriptomic cell atlas of human neural organoids,10.1038/s41586-024-08172-8,2024,https://github.com/YosefLab/scib-metrics
+Nature,Probabilistic weather forecasting with machine learning,10.1038/s41586-024-08252-9,2024,https://github.com/ClimateGlobalChange/tempestextremes; https://github.com/NREL/turbine-models; https://github.com/google-deepmind/graphcast
+Nature,Large-scale mapping and mutagenesis of human transcriptional effector domains,10.1038/s41586-023-05906-y,2023,https://github.com/bintulab/HT-recruit-Analyze
+Nature,Bioactive glycans in a microbiome-directed food for children with malnutrition,10.1038/s41586-023-06838-3,2023,https://github.com/bethatkinson/rpart
+Nature,Abyssal seafloor as a key driver of ocean trace-metal biogeochemical cycles,10.1038/s41586-025-09038-3,2025,https://github.com/robertfeldt/BlackBoxOptim.jl
+Nature,The dynamics and geometry of choice in the premotor cortex,10.1038/s41586-025-09199-1,2025,https://github.com/engellab/neuralflow
+Nature,The dynamics of pattern matching in camouflaging cuttlefish,10.1038/s41586-023-06259-2,2023,https://github.com/facebookresearch/detectron2
+Nature,Study design features increase replicability in brain-wide association studies,10.1038/s41586-024-08260-9,2024,https://github.com/jcbeer/longCombat
+Nature,Flexible solar cells based on foldable silicon wafers with blunted edges,10.1038/s41586-023-05921-z,2023,https://github.com/zae-bayern/elpv-dataset
+Nature,Hot droughts in the Amazon provide a window to a future hypertropical climate,10.1038/s41586-025-09728-y,2025,https://github.com/monocongo/climate_indices
+Nature,High-temperature 205Tl decay clarifies 205Pb dating in early Solar System,10.1038/s41586-024-08130-4,2024,https://github.com/martinit18/nested_fit
+Nature,A cell-type-specific error-correction signal in the posterior parietal cortex,10.1038/s41586-023-06357-1,2023,https://github.com/HarveyLab/mouseVR
+Nature,Environmental drivers of increased ecosystem respiration in a warming tundra,10.1038/s41586-024-07274-7,2024,https://github.com/mjalava/tundraflux
+Nature,The solar dynamo begins near the surface,10.1038/s41586-024-07315-1,2024,https://github.com/geoffvasil/nssl_mri
+Nature,Refining the impact of genetic evidence on clinical success,10.1038/s41586-024-07316-0,2024,https://github.com/ericminikel/genetic_support
+Nature,Optimizing generative AI by backpropagating language model feedback,10.1038/s41586-025-08661-4,2025,https://github.com/tatsu-lab/alpaca_eval
+Nature,Soft magnetic hysteresis in a dysprosium amide–alkene complex up to 100 kelvin,10.1038/s41586-025-09138-0,2025,https://github.com/antononcube/MathematicaForPrediction
+Nature,Unexpected clustering pattern in dwarf galaxies challenges formation models,10.1038/s41586-025-08965-5,2025,https://github.com/ChenYangyao/dwarf_assembly_bias; https://github.com/JiangFangzhou/SIDM
+Nature,The rise and transformation of Bronze Age pastoralists in the Caucasus,10.1038/s41586-024-08113-5,2024,https://github.com/odelaneau/GLIMPSE
+Nature,Universal photonic artificial intelligence acceleration,10.1038/s41586-025-08854-x,2025,https://github.com/karpathy/nanoGPT
+Nature,Emerging evidence of abrupt changes in the Antarctic environment,10.1038/s41586-025-09349-5,2025,https://github.com/g2e/m_map
+Nature,Capturing dynamic phage–pathogen coevolution by clinical surveillance,10.1038/s41586-026-10136-z,2026,https://github.com/tseemann/snippy
+Nature,Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis,10.1038/s41586-023-05806-1,2023,https://github.com/kitzmanlab/mimips
+Nature,Computer-vision research powers surveillance technology,10.1038/s41586-025-08972-6,2025,https://github.com/wagnew3/Computer-Vision-Research-Powers-Surveillance-Technology
+Nature,An integrated transcriptomic cell atlas of human neural organoids,10.1038/s41586-024-08172-8,2024,https://github.com/YosefLab/scib-metrics
+Nature,A vaccine central in A(H5) influenza antigenic space confers broad immunity,10.1038/s41586-025-09626-3,2025,https://github.com/shwilks/r3js
+Nature,Scaling and networking a modular photonic quantum computer,10.1038/s41586-024-08406-9,2025,https://github.com/XanaduAI/MrMustard
+Nature,Hot droughts in the Amazon provide a window to a future hypertropical climate,10.1038/s41586-025-09728-y,2025,https://github.com/monocongo/climate_indices
+Nature,High-temperature 205Tl decay clarifies 205Pb dating in early Solar System,10.1038/s41586-024-08130-4,2024,https://github.com/martinit18/nested_fit
+Nature,A cell-type-specific error-correction signal in the posterior parietal cortex,10.1038/s41586-023-06357-1,2023,https://github.com/HarveyLab/mouseVR
+Nature,Environmental drivers of increased ecosystem respiration in a warming tundra,10.1038/s41586-024-07274-7,2024,https://github.com/mjalava/tundraflux
+Nature,The solar dynamo begins near the surface,10.1038/s41586-024-07315-1,2024,https://github.com/geoffvasil/nssl_mri
+Nature,Refining the impact of genetic evidence on clinical success,10.1038/s41586-024-07316-0,2024,https://github.com/ericminikel/genetic_support
+Nature,Optimizing generative AI by backpropagating language model feedback,10.1038/s41586-025-08661-4,2025,https://github.com/tatsu-lab/alpaca_eval
+Nature,Soft magnetic hysteresis in a dysprosium amide–alkene complex up to 100 kelvin,10.1038/s41586-025-09138-0,2025,https://github.com/antononcube/MathematicaForPrediction
+Nature,Unexpected clustering pattern in dwarf galaxies challenges formation models,10.1038/s41586-025-08965-5,2025,https://github.com/ChenYangyao/dwarf_assembly_bias; https://github.com/JiangFangzhou/SIDM
+Nature,The rise and transformation of Bronze Age pastoralists in the Caucasus,10.1038/s41586-024-08113-5,2024,https://github.com/odelaneau/GLIMPSE
+Nature,Universal photonic artificial intelligence acceleration,10.1038/s41586-025-08854-x,2025,https://github.com/karpathy/nanoGPT
+Nature,Emerging evidence of abrupt changes in the Antarctic environment,10.1038/s41586-025-09349-5,2025,https://github.com/g2e/m_map
+Nature,Capturing dynamic phage–pathogen coevolution by clinical surveillance,10.1038/s41586-026-10136-z,2026,https://github.com/tseemann/snippy
+Nature,Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis,10.1038/s41586-023-05806-1,2023,https://github.com/kitzmanlab/mimips
+Nature,Computer-vision research powers surveillance technology,10.1038/s41586-025-08972-6,2025,https://github.com/wagnew3/Computer-Vision-Research-Powers-Surveillance-Technology
+Nature,An integrated transcriptomic cell atlas of human neural organoids,10.1038/s41586-024-08172-8,2024,https://github.com/YosefLab/scib-metrics
+Nature,Hot droughts in the Amazon provide a window to a future hypertropical climate,10.1038/s41586-025-09728-y,2025,https://github.com/monocongo/climate_indices
+Nature,High-temperature 205Tl decay clarifies 205Pb dating in early Solar System,10.1038/s41586-024-08130-4,2024,https://github.com/martinit18/nested_fit
+Nature,A cell-type-specific error-correction signal in the posterior parietal cortex,10.1038/s41586-023-06357-1,2023,https://github.com/HarveyLab/mouseVR
+Nature,Environmental drivers of increased ecosystem respiration in a warming tundra,10.1038/s41586-024-07274-7,2024,https://github.com/mjalava/tundraflux
+Nature,The solar dynamo begins near the surface,10.1038/s41586-024-07315-1,2024,https://github.com/geoffvasil/nssl_mri
+Nature,Refining the impact of genetic evidence on clinical success,10.1038/s41586-024-07316-0,2024,https://github.com/ericminikel/genetic_support
+Nature,Optimizing generative AI by backpropagating language model feedback,10.1038/s41586-025-08661-4,2025,https://github.com/tatsu-lab/alpaca_eval
+Nature,Soft magnetic hysteresis in a dysprosium amide–alkene complex up to 100 kelvin,10.1038/s41586-025-09138-0,2025,https://github.com/antononcube/MathematicaForPrediction
+Nature,Unexpected clustering pattern in dwarf galaxies challenges formation models,10.1038/s41586-025-08965-5,2025,https://github.com/ChenYangyao/dwarf_assembly_bias; https://github.com/JiangFangzhou/SIDM
+Nature,The rise and transformation of Bronze Age pastoralists in the Caucasus,10.1038/s41586-024-08113-5,2024,https://github.com/odelaneau/GLIMPSE
+Nature,Universal photonic artificial intelligence acceleration,10.1038/s41586-025-08854-x,2025,https://github.com/karpathy/nanoGPT
+Nature,Capturing dynamic phage–pathogen coevolution by clinical surveillance,10.1038/s41586-026-10136-z,2026,https://github.com/tseemann/snippy
+Nature,Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis,10.1038/s41586-023-05806-1,2023,https://github.com/kitzmanlab/mimips
+Nature,Emerging evidence of abrupt changes in the Antarctic environment,10.1038/s41586-025-09349-5,2025,https://github.com/g2e/m_map
+Nature,Computer-vision research powers surveillance technology,10.1038/s41586-025-08972-6,2025,https://github.com/wagnew3/Computer-Vision-Research-Powers-Surveillance-Technology
+Nature,An integrated transcriptomic cell atlas of human neural organoids,10.1038/s41586-024-08172-8,2024,https://github.com/YosefLab/scib-metrics
+Nature,Bioactive glycans in a microbiome-directed food for children with malnutrition,10.1038/s41586-023-06838-3,2023,https://github.com/bethatkinson/rpart
+Nature,Abyssal seafloor as a key driver of ocean trace-metal biogeochemical cycles,10.1038/s41586-025-09038-3,2025,https://github.com/robertfeldt/BlackBoxOptim.jl
+Nature,The dynamics and geometry of choice in the premotor cortex,10.1038/s41586-025-09199-1,2025,https://github.com/engellab/neuralflow
+Nature,The dynamics of pattern matching in camouflaging cuttlefish,10.1038/s41586-023-06259-2,2023,https://github.com/facebookresearch/detectron2
+Nature,Study design features increase replicability in brain-wide association studies,10.1038/s41586-024-08260-9,2024,https://github.com/jcbeer/longCombat
+Nature,Reply to: Amniote metabolism and the evolution of endothermy,10.1038/s41586-023-06412-x,2023,https://github.com/IrisMenendez/Dinosaur_metabolism
+Nature,Mortality impacts of rainfall and sea-level rise in a developing megacity,10.1038/s41586-025-09730-4,2025,https://github.com/datameet/Municipal_Spatial_Data; https://github.com/justinelliotmeyers/india_pincodes
+Nature,Unexpected clustering pattern in dwarf galaxies challenges formation models,10.1038/s41586-025-08965-5,2025,https://github.com/ChenYangyao/dwarf_assembly_bias; https://github.com/JiangFangzhou/SIDM
+Nature,The rise and transformation of Bronze Age pastoralists in the Caucasus,10.1038/s41586-024-08113-5,2024,https://github.com/odelaneau/GLIMPSE
+Nature,Universal photonic artificial intelligence acceleration,10.1038/s41586-025-08854-x,2025,https://github.com/karpathy/nanoGPT
+Nature,Emerging evidence of abrupt changes in the Antarctic environment,10.1038/s41586-025-09349-5,2025,https://github.com/g2e/m_map
+Nature,Capturing dynamic phage–pathogen coevolution by clinical surveillance,10.1038/s41586-026-10136-z,2026,https://github.com/tseemann/snippy
+Nature,Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis,10.1038/s41586-023-05806-1,2023,https://github.com/kitzmanlab/mimips
+Nature,Computer-vision research powers surveillance technology,10.1038/s41586-025-08972-6,2025,https://github.com/wagnew3/Computer-Vision-Research-Powers-Surveillance-Technology
+Nature,An integrated transcriptomic cell atlas of human neural organoids,10.1038/s41586-024-08172-8,2024,https://github.com/YosefLab/scib-metrics
+Nature,A vaccine central in A(H5) influenza antigenic space confers broad immunity,10.1038/s41586-025-09626-3,2025,https://github.com/shwilks/r3js
+Nature,Scaling and networking a modular photonic quantum computer,10.1038/s41586-024-08406-9,2025,https://github.com/XanaduAI/MrMustard
+Nature,Increased mutation and gene conversion within human segmental duplications,10.1038/s41586-023-05895-y,2023,https://github.com/pysam-developers/pysam
+Nature,Connectomics of predicted Sst transcriptomic types in mouse visual cortex,10.1038/s41586-025-08805-6,2025,https://github.com/CAVEconnectome/MeshParty; https://github.com/CAVEconnectome/pcg_skel; https://github.com/pandas-dev/pandas
+Nature,Solving olympiad geometry without human demonstrations,10.1038/s41586-023-06747-5,2024,https://github.com/google-research/meliad
+Nature,Flexible solar cells based on foldable silicon wafers with blunted edges,10.1038/s41586-023-05921-z,2023,https://github.com/zae-bayern/elpv-dataset
+Nature,Spectroscopic identification of water emission from a main-belt comet,10.1038/s41586-023-06152-y,2023,https://github.com/Small-Bodies-Node/ice-sublimation
+Nature,Spatiotemporally resolved colorectal oncogenesis in mini-colons ex vivo,10.1038/s41586-024-07330-2,2024,https://github.com/LorenzoLF/Mini-colon_bioengineering
+Nature,Programmable on-chip nonlinear photonics,10.1038/s41586-025-09620-9,2025,https://github.com/lbolla/EMpy
+Nature,Geographic variation of mutagenic exposures in kidney cancer genomes,10.1038/s41586-024-07368-2,2024,https://github.com/AlexandrovLab/TMB_plotter; https://github.com/EricArcher/rfPermute; https://github.com/colearendt/xlsx; https://github.com/cran/rgeos; https://github.com/jzluo/firthlogist; https://github.com/r-tmap/tmaptools; https://github.com/ropensci/geojsonio; https://github.com/rspatial/raster; https://github.com/rstudio/leaflet; https://github.com/slowkow/ggrepel; https://github.com/thomasp85/patchwork; https://github.com/trevorld/ggpattern; https://github.com/ycphs/openxlsx
+Nature,Unconventional domain tessellations in moiré-of-moiré lattices,10.1038/s41586-025-08932-0,2025,https://github.com/opencollab/arpack-ng
+Nature,The variation and evolution of complete human centromeres,10.1038/s41586-024-07278-3,2024,https://github.com/arozanski97/CDR-Finder; https://github.com/arozanski97/SUNK-based-contig-scaffolding
+Nature,Radiation-induced amphiregulin drives tumour metastasis,10.1038/s41586-025-08994-0,2025,https://github.com/lilab-bcb/pegasus
+Nature,Neural signatures of natural behaviour in socializing macaques,10.1038/s41586-024-07178-6,2024,https://github.com/open-mmlab/mmpose
+Nature,Unexpected clustering pattern in dwarf galaxies challenges formation models,10.1038/s41586-025-08965-5,2025,https://github.com/ChenYangyao/dwarf_assembly_bias; https://github.com/JiangFangzhou/SIDM
+Nature,The rise and transformation of Bronze Age pastoralists in the Caucasus,10.1038/s41586-024-08113-5,2024,https://github.com/odelaneau/GLIMPSE
+Nature,Universal photonic artificial intelligence acceleration,10.1038/s41586-025-08854-x,2025,https://github.com/karpathy/nanoGPT
+Nature,Emerging evidence of abrupt changes in the Antarctic environment,10.1038/s41586-025-09349-5,2025,https://github.com/g2e/m_map
+Nature,Capturing dynamic phage–pathogen coevolution by clinical surveillance,10.1038/s41586-026-10136-z,2026,https://github.com/tseemann/snippy
+Nature,Aberrant activation of TCL1A promotes stem cell expansion in clonal haematopoiesis,10.1038/s41586-023-05806-1,2023,https://github.com/kitzmanlab/mimips
+Nature,Computer-vision research powers surveillance technology,10.1038/s41586-025-08972-6,2025,https://github.com/wagnew3/Computer-Vision-Research-Powers-Surveillance-Technology
+Nature,An integrated transcriptomic cell atlas of human neural organoids,10.1038/s41586-024-08172-8,2024,https://github.com/YosefLab/scib-metrics
+Nature,A vaccine central in A(H5) influenza antigenic space confers broad immunity,10.1038/s41586-025-09626-3,2025,https://github.com/shwilks/r3js
+Nature,Magnon spectroscopy in the electron microscope,10.1038/s41586-025-09318-y,2025,https://github.com/UppASD/UppASD
+Nature,Predicting crystal form stability under real-world conditions,10.1038/s41586-023-06587-3,2023,https://github.com/spglib/spglib
+Nature,Tissue-resident memory CD8 T cell diversity is spatiotemporally imprinted,10.1038/s41586-024-08466-x,2025,https://github.com/wkentaro/labelme
+Nature,Liver X receptor unlinks intestinal regeneration and tumorigenesis,10.1038/s41586-024-08247-6,2024,https://github.com/Ajaxels/MIB
+Nature,Spike deep mutational scanning helps predict success of SARS-CoV-2 clades,10.1038/s41586-024-07636-1,2024,https://github.com/neherlab/SARS-CoV-2_variant-reports

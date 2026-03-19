@@ -1,0 +1,19 @@
+repo_url,repo_slug,repo_dir,scan_status,figure_code_files,figure_image_files,copied_assets,lfs_pointers,notes,last_scanned
+https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273,NAalytics__Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273,data/github_repos/NAalytics__Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273,error,,,0,0,git clone timed out,2026-03-17T12:53:53.967286Z
+https://github.com/MouseLand/zhong-et-al-2025,MouseLand__zhong-et-al-2025,data/github_repos/MouseLand__zhong-et-al-2025,error,,,0,0,git clone timed out,2026-03-17T12:53:54.005069Z
+https://github.com/NBISweden/AGAT,NBISweden__AGAT,data/github_repos/NBISweden__AGAT,error,,,0,0,git clone timed out,2026-03-17T12:53:54.010784Z
+https://github.com/FlynnLab/jonperr,FlynnLab__jonperr,data/github_repos/FlynnLab__jonperr,error,,,0,0,git clone timed out,2026-03-17T12:53:54.016546Z
+https://github.com/NeLy-EPFL/dn_networks,NeLy-EPFL__dn_networks,data/github_repos/NeLy-EPFL__dn_networks,error,,,0,0,"Cloning into 'data/github_repos/NeLy-EPFL__dn_networks'...
+fatal: unable to access 'https://github.com/NeLy-EPFL/dn_networks/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",2026-03-17T12:54:19.246259Z
+https://github.com/NREL/turbine-models,NREL__turbine-models,data/github_repos/NREL__turbine-models,error,,,0,0,git clone timed out,2026-03-17T12:56:07.085662Z
+https://github.com/NeLy-EPFL/twoppp,NeLy-EPFL__twoppp,data/github_repos/NeLy-EPFL__twoppp,error,,,0,0,git clone timed out,2026-03-17T12:56:07.090675Z
+https://github.com/Nealelab/UK_Biobank_GWAS,Nealelab__UK_Biobank_GWAS,data/github_repos/Nealelab__UK_Biobank_GWAS,error,,,0,0,git clone timed out,2026-03-17T12:56:31.648894Z
+https://github.com/PLAVRVSO/scRNA-Seq-analysis-of-BAT-SVF,PLAVRVSO__scRNA-Seq-analysis-of-BAT-SVF,data/github_repos/PLAVRVSO__scRNA-Seq-analysis-of-BAT-SVF,error,,,0,0,"Cloning into 'data/github_repos/PLAVRVSO__scRNA-Seq-analysis-of-BAT-SVF'...
+fatal: unable to access 'https://github.com/PLAVRVSO/scRNA-Seq-analysis-of-BAT-SVF/': GnuTLS recv error (-110): The TLS connection was non-properly terminated.",2026-03-17T12:57:39.096603Z
+https://github.com/Nik-Zainal-Group/signature.tools.lib,Nik-Zainal-Group__signature.tools.lib,data/github_repos/Nik-Zainal-Group__signature.tools.lib,error,,,0,0,git clone timed out,2026-03-17T12:58:18.169586Z
+https://github.com/PacificBiosciences/ccs,PacificBiosciences__ccs,data/github_repos/PacificBiosciences__ccs,error,,,0,0,git clone timed out,2026-03-17T12:58:44.744282Z
+https://github.com/NVIDIA/DALI,NVIDIA__DALI,data/github_repos/NVIDIA__DALI,error,,,0,0,git clone timed out,2026-03-17T12:58:56.487616Z
+https://github.com/PierreElias/IntroECG,PierreElias__IntroECG,data/github_repos/PierreElias__IntroECG,error,,,0,0,git clone timed out,2026-03-17T12:59:50.248611Z
+https://github.com/RadulovicLab/Nature-2024,RadulovicLab__Nature-2024,data/github_repos/RadulovicLab__Nature-2024,error,,,0,0,git clone timed out,2026-03-17T13:00:31.218032Z
+https://github.com/features/copilot,features__copilot,data/github_repos/features__copilot,error,,,0,0,git clone timed out,2026-03-17T13:00:57.902284Z
+https://github.com/ukhsa-collaboration/drivers_epidemic_dynamics_from_nhs_covid19_app.10.5281,ukhsa-collaboration__drivers_epidemic_dynamics_from_nhs_covid19_app.10.5281,data/github_repos/ukhsa-collaboration__drivers_epidemic_dynamics_from_nhs_covid19_app.10.5281,error,,,0,0,git clone timed out,2026-03-17T13:01:08.198701Z
