@@ -58,17 +58,66 @@ def repo_slug(repo_url: str) -> str:
     return f"{m.group(1)}__{m.group(2)}"
 
 
-def download_tarball(repo_url: str, dest: Path, codeload_ip: str | None, branch: str) -> bool:
+def parse_http_code(output: str) -> str:
+    lines = [line.strip() for line in output.splitlines() if line.strip()]
+    if not lines:
+        return ""
+    last = lines[-1]
+    return last if last.isdigit() else ""
+
+
+def classify_curl_error(code: int, http_code: str, stderr: str) -> str:
+    if http_code:
+        return f"http_{http_code}"
+    if code == 6:
+        return "dns"
+    if code == 28:
+        return "timeout"
+    if "Operation timed out" in stderr:
+        return "timeout"
+    if "Could not resolve host" in stderr:
+        return "dns"
+    if "SSL" in stderr or "TLS" in stderr:
+        return "tls"
+    return f"curl_{code}"
+
+
+def download_tarball(
+    repo_url: str,
+    dest: Path,
+    codeload_ip: str | None,
+    branch: str,
+    connect_timeout: int,
+    max_time: int,
+) -> Tuple[bool, str]:
     m = re.match(r"https?://github\.com/([^/]+)/([^/]+)", repo_url)
     if not m:
-        return False
+        return False, "bad_repo_url"
     owner, repo = m.group(1), m.group(2)
     url = f"https://codeload.github.com/{owner}/{repo}/tar.gz/refs/heads/{branch}"
-    cmd = ["curl", "-fL", "-o", str(dest), url]
+    cmd = [
+        "curl", "-sS", "-L",
+        "--connect-timeout", str(connect_timeout),
+        "--max-time", str(max_time),
+        "-w", "\n%{http_code}\n",
+        "-o", str(dest),
+        url,
+    ]
     if codeload_ip:
-        cmd = ["curl", "-fL", "--resolve", f"codeload.github.com:443:{codeload_ip}", "-o", str(dest), url]
-    code, _, _ = run(cmd)
-    return code == 0 and dest.exists()
+        cmd = [
+            "curl", "-sS", "-L",
+            "--connect-timeout", str(connect_timeout),
+            "--max-time", str(max_time),
+            "--resolve", f"codeload.github.com:443:{codeload_ip}",
+            "-w", "\n%{http_code}\n",
+            "-o", str(dest),
+            url,
+        ]
+    code, out, err = run(cmd)
+    http_code = parse_http_code(out)
+    if code == 0 and dest.exists() and (http_code == "200" or http_code == ""):
+        return True, ""
+    return False, classify_curl_error(code, http_code, err)
 
 
 def safe_extract_member(tf: tarfile.TarFile, member: tarfile.TarInfo, dest_root: Path) -> None:
@@ -94,6 +143,8 @@ def main() -> None:
     ap.add_argument("--repos-file", default="data/metadata/cns_error_repos_urls.txt")
     ap.add_argument("--codeload-ip", default="")
     ap.add_argument("--max-assets", type=int, default=200)
+    ap.add_argument("--connect-timeout", type=int, default=10)
+    ap.add_argument("--max-time", type=int, default=45)
     args = ap.parse_args()
 
     index_path = Path(args.index)
@@ -131,17 +182,25 @@ def main() -> None:
             tar_path.unlink()
 
         downloaded = False
+        fail_reason = ""
         for branch in ("main", "master"):
-            if download_tarball(repo_url, tar_path, codeload_ip, branch):
+            ok, reason = download_tarball(
+                repo_url, tar_path, codeload_ip, branch,
+                connect_timeout=args.connect_timeout,
+                max_time=args.max_time,
+            )
+            if ok:
                 downloaded = True
                 break
+            if reason:
+                fail_reason = reason
         if not downloaded:
             row = row_by_url.get(repo_url)
             if row:
                 row["scan_status"] = "error"
-                row["notes"] = "tar_download_failed"
+                row["notes"] = f"tar_download_failed:{fail_reason or 'unknown'}"
                 row["last_scanned"] = today
-            print(f"[tar] {repo_url} download failed")
+            print(f"[tar] {repo_url} download failed ({fail_reason or 'unknown'})", flush=True)
             continue
 
         try:
@@ -193,14 +252,17 @@ def main() -> None:
                     row["copied_assets"] = str(extracted)
                     row["notes"] = "tar_list_extract_selected"
                     row["last_scanned"] = today
-                print(f"[tar] {repo_url} code={len(code_files)} images={len(image_files)} assets={extracted}")
+                print(
+                    f"[tar] {repo_url} code={len(code_files)} images={len(image_files)} assets={extracted}",
+                    flush=True,
+                )
         except Exception as exc:
             row = row_by_url.get(repo_url)
             if row:
                 row["scan_status"] = "error"
                 row["notes"] = f"tar_process_failed: {exc}"
                 row["last_scanned"] = today
-            print(f"[tar] {repo_url} error: {exc}")
+            print(f"[tar] {repo_url} error: {exc}", flush=True)
 
     # write index
     with index_path.open("w", newline="") as f:
@@ -215,7 +277,7 @@ def main() -> None:
         w.writeheader()
         w.writerows(existing_rows + new_rows)
 
-    print("done")
+    print("done", flush=True)
 
 
 if __name__ == "__main__":
